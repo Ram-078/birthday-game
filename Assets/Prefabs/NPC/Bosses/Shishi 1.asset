@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae2e2fce506b3a489e2a66fc5f727f5, type: 3}
+  m_Name: Shishi 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueCharacter
+  characterName: Shishi
+  defaultSprite: {fileID: -5042413043900406240, guid: f5ffb5cdf1179cf46951a800426f2895, type: 3}
+  voiceClip: {fileID: 8300000, guid: cec82262fe2338f4a9f9a2bee976af13, type: 3}
+  voicePitch: 1

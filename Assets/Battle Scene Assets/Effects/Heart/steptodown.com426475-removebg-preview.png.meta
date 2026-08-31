@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 6688e7d12468a6449a0eee536a125dd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7475378012486347572
+    second: steptodown.com426475-removebg-preview_0
+  - first:
+      213: -8962201542839090795
+    second: steptodown.com426475-removebg-preview_1
+  - first:
+      213: -5777374318253538216
+    second: steptodown.com426475-removebg-preview_2
+  - first:
+      213: 9006177157886045075
+    second: steptodown.com426475-removebg-preview_3
+  - first:
+      213: 3525356341188199437
+    second: steptodown.com426475-removebg-preview_4
+  - first:
+      213: -8588895952506091042
+    second: steptodown.com426475-removebg-preview_5
+  - first:
+      213: 466497804973017716
+    second: steptodown.com426475-removebg-preview_6
+  - first:
+      213: 3393633699167446887
+    second: steptodown.com426475-removebg-preview_7
+  - first:
+      213: -1729142216403547211
+    second: steptodown.com426475-removebg-preview_8
+  - first:
+      213: 5536613055559148354
+    second: steptodown.com426475-removebg-preview_9
+  - first:
+      213: -6317563309838796867
+    second: steptodown.com426475-removebg-preview_10
+  - first:
+      213: -1533034742852088475
+    second: steptodown.com426475-removebg-preview_11
+  - first:
+      213: -2236885525693938713
+    second: steptodown.com426475-removebg-preview_12
+  - first:
+      213: -4604880102053035468
+    second: steptodown.com426475-removebg-preview_13
+  - first:
+      213: -4057246141397023512
+    second: steptodown.com426475-removebg-preview_14
+  - first:
+      213: 177731215529385032
+    second: steptodown.com426475-removebg-preview_15
+  - first:
+      213: 6927558249377750594
+    second: steptodown.com426475-removebg-preview_16
+  - first:
+      213: 6335764403165472590
+    second: steptodown.com426475-removebg-preview_17
+  - first:
+      213: -3820284960475068471
+    second: steptodown.com426475-removebg-preview_18
+  - first:
+      213: -6186359525172561748
+    second: steptodown.com426475-removebg-preview_19
+  - first:
+      213: 9150305746173755781
+    second: steptodown.com426475-removebg-preview_20
+  - first:
+      213: -4037855960563684039
+    second: steptodown.com426475-removebg-preview_21
+  - first:
+      213: 7913818888699544045
+    second: steptodown.com426475-removebg-preview_22
+  - first:
+      213: -483803207213527315
+    second: steptodown.com426475-removebg-preview_23
+  - first:
+      213: -7089187320810600015
+    second: steptodown.com426475-removebg-preview_24
+  - first:
+      213: 5859667099119915980
+    second: steptodown.com426475-removebg-preview_25
+  - first:
+      213: 5973382737148759641
+    second: steptodown.com426475-removebg-preview_26
+  - first:
+      213: 798694206507099627
+    second: steptodown.com426475-removebg-preview_27
+  - first:
+      213: -1021926219779363425
+    second: steptodown.com426475-removebg-preview_28
+  - first:
+      213: -7349604950732678486
+    second: steptodown.com426475-removebg-preview_29
+  - first:
+      213: 4354996652193269745
+    second: steptodown.com426475-removebg-preview_30
+  - first:
+      213: -7742468094770505569
+    second: steptodown.com426475-removebg-preview_31
+  - first:
+      213: -590105838606908962
+    second: steptodown.com426475-removebg-preview_32
+  - first:
+      213: -4604693080728445584
+    second: steptodown.com426475-removebg-preview_33
+  - first:
+      213: 4744048295651531614
+    second: steptodown.com426475-removebg-preview_34
+  - first:
+      213: 7158398345267398628
+    second: steptodown.com426475-removebg-preview_35
+  - first:
+      213: -874088581944560888
+    second: steptodown.com426475-removebg-preview_36
+  - first:
+      213: 3021579232076411102
+    second: steptodown.com426475-removebg-preview_37
+  - first:
+      213: 7581146474363634586
+    second: steptodown.com426475-removebg-preview_38
+  - first:
+      213: 2670598277462821716
+    second: steptodown.com426475-removebg-preview_39
+  - first:
+      213: -6355974725354081379
+    second: steptodown.com426475-removebg-preview_40
+  - first:
+      213: 4232768157975604477
+    second: steptodown.com426475-removebg-preview_41
+  - first:
+      213: -543628959461450646
+    second: steptodown.com426475-removebg-preview_42
+  - first:
+      213: 6459998504449244559
+    second: steptodown.com426475-removebg-preview_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 280
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba30432b0edb760800000000000000
+      internalID: 7475378012486347572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 279
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914e993e2ddf9380800000000000000
+      internalID: -8962201542839090795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 280
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854880adaa4a2dfa0800000000000000
+      internalID: -5777374318253538216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 280
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39be808886e5cfc70800000000000000
+      internalID: 9006177157886045075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 281
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0481370ae49ce030800000000000000
+      internalID: 3525356341188199437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 280
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9851a13ac1ec880800000000000000
+      internalID: -8588895952506091042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 280
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8ae13845597600800000000000000
+      internalID: 466497804973017716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 281
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767aba08edb981f20800000000000000
+      internalID: 3393633699167446887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8229c05ad008e0800000000000000
+      internalID: -1729142216403547211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 204
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a4636d3006dc40800000000000000
+      internalID: 5536613055559148354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 203
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7740f34a18358a0800000000000000
+      internalID: -6317563309838796867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 198
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d08f3160199bae0800000000000000
+      internalID: -1533034742852088475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ccc5477cf4f0e0800000000000000
+      internalID: -2236885525693938713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 186
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324dd3e1fd2810c0800000000000000
+      internalID: -4604880102053035468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 186
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c4bf6124c1b7c0800000000000000
+      internalID: -4057246141397023512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 192
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c902f499d677200800000000000000
+      internalID: 177731215529385032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 126
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24edcf62681a32060800000000000000
+      internalID: 6927558249377750594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 132
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472e3708282de750800000000000000
+      internalID: 6335764403165472590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 93
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7cd16b11f9bfac0800000000000000
+      internalID: -3820284960475068471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 139
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83c31e9c2a52aa0800000000000000
+      internalID: -6186359525172561748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 137
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58107e2889a6cfe70800000000000000
+      internalID: 9150305746173755781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 137
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d6868b567a6f7c0800000000000000
+      internalID: -4037855960563684039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 142
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de186bd995883dd60800000000000000
+      internalID: 7913818888699544045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 149
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec7dcdb8f2949f0800000000000000
+      internalID: -483803207213527315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 154
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b981ec11b52e9d90800000000000000
+      internalID: -7089187320810600015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 164
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc316194e28b15150800000000000000
+      internalID: 5859667099119915980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 164
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ec33b73f7b5e250800000000000000
+      internalID: 5973382737148759641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 103
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a40f2628851b00800000000000000
+      internalID: 798694206507099627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9da46b748361d1f0800000000000000
+      internalID: -1021926219779363425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5028bc35f00a90800000000000000
+      internalID: -7349604950732678486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7cef3a16e007c30800000000000000
+      internalID: 4354996652193269745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9898660a4a3d8490800000000000000
+      internalID: -7742468094770505569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 92
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed183f5cdd58fc7f0800000000000000
+      internalID: -590105838606908962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d5b7f2a08d810c0800000000000000
+      internalID: -4604693080728445584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b5b933ace36d140800000000000000
+      internalID: 4744048295651531614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e748624e5db75360800000000000000
+      internalID: 7158398345267398628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80338fad01d9ed3f0800000000000000
+      internalID: -874088581944560888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 15
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0bc947d4ecee920800000000000000
+      internalID: 3021579232076411102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 15
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9346a24d84a53960800000000000000
+      internalID: 7581146474363634586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 15
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b01f1ebfedf0520800000000000000
+      internalID: 2670598277462821716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 15
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93b8e5a9aa0bc7a0800000000000000
+      internalID: -6355974725354081379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 15
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc68b8a630ddba30800000000000000
+      internalID: 4232768157975604477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 15
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c5fa57754a478f0800000000000000
+      internalID: -543628959461450646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: steptodown.com426475-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 15
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d704bc96686a950800000000000000
+      internalID: 6459998504449244559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      steptodown.com426475-removebg-preview_0: 7475378012486347572
+      steptodown.com426475-removebg-preview_1: -8962201542839090795
+      steptodown.com426475-removebg-preview_10: -6317563309838796867
+      steptodown.com426475-removebg-preview_11: -1533034742852088475
+      steptodown.com426475-removebg-preview_12: -2236885525693938713
+      steptodown.com426475-removebg-preview_13: -4604880102053035468
+      steptodown.com426475-removebg-preview_14: -4057246141397023512
+      steptodown.com426475-removebg-preview_15: 177731215529385032
+      steptodown.com426475-removebg-preview_16: 6927558249377750594
+      steptodown.com426475-removebg-preview_17: 6335764403165472590
+      steptodown.com426475-removebg-preview_18: -3820284960475068471
+      steptodown.com426475-removebg-preview_19: -6186359525172561748
+      steptodown.com426475-removebg-preview_2: -5777374318253538216
+      steptodown.com426475-removebg-preview_20: 9150305746173755781
+      steptodown.com426475-removebg-preview_21: -4037855960563684039
+      steptodown.com426475-removebg-preview_22: 7913818888699544045
+      steptodown.com426475-removebg-preview_23: -483803207213527315
+      steptodown.com426475-removebg-preview_24: -7089187320810600015
+      steptodown.com426475-removebg-preview_25: 5859667099119915980
+      steptodown.com426475-removebg-preview_26: 5973382737148759641
+      steptodown.com426475-removebg-preview_27: 798694206507099627
+      steptodown.com426475-removebg-preview_28: -1021926219779363425
+      steptodown.com426475-removebg-preview_29: -7349604950732678486
+      steptodown.com426475-removebg-preview_3: 9006177157886045075
+      steptodown.com426475-removebg-preview_30: 4354996652193269745
+      steptodown.com426475-removebg-preview_31: -7742468094770505569
+      steptodown.com426475-removebg-preview_32: -590105838606908962
+      steptodown.com426475-removebg-preview_33: -4604693080728445584
+      steptodown.com426475-removebg-preview_34: 4744048295651531614
+      steptodown.com426475-removebg-preview_35: 7158398345267398628
+      steptodown.com426475-removebg-preview_36: -874088581944560888
+      steptodown.com426475-removebg-preview_37: 3021579232076411102
+      steptodown.com426475-removebg-preview_38: 7581146474363634586
+      steptodown.com426475-removebg-preview_39: 2670598277462821716
+      steptodown.com426475-removebg-preview_4: 3525356341188199437
+      steptodown.com426475-removebg-preview_40: -6355974725354081379
+      steptodown.com426475-removebg-preview_41: 4232768157975604477
+      steptodown.com426475-removebg-preview_42: -543628959461450646
+      steptodown.com426475-removebg-preview_43: 6459998504449244559
+      steptodown.com426475-removebg-preview_5: -8588895952506091042
+      steptodown.com426475-removebg-preview_6: 466497804973017716
+      steptodown.com426475-removebg-preview_7: 3393633699167446887
+      steptodown.com426475-removebg-preview_8: -1729142216403547211
+      steptodown.com426475-removebg-preview_9: 5536613055559148354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5348 @@
+fileFormatVersion: 2
+guid: 0776f228ff231e24e82bcb9e97181024
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 438895471204581479
+    second: 005_0
+  - first:
+      213: -2069081816507508133
+    second: 005_1
+  - first:
+      213: 1334461543052693016
+    second: 005_2
+  - first:
+      213: -8431268129165902898
+    second: 005_3
+  - first:
+      213: 8726378452805861320
+    second: 005_4
+  - first:
+      213: 299241404293555994
+    second: 005_5
+  - first:
+      213: 2353761873487633424
+    second: 005_6
+  - first:
+      213: 285901947763745180
+    second: 005_7
+  - first:
+      213: -3870042868399184346
+    second: 005_8
+  - first:
+      213: 8132537602431278025
+    second: 005_9
+  - first:
+      213: 2668491427974208368
+    second: 005_10
+  - first:
+      213: -217885556742990933
+    second: 005_11
+  - first:
+      213: -2076875804131049274
+    second: 005_12
+  - first:
+      213: 8200481602476378167
+    second: 005_13
+  - first:
+      213: 1856798525666078755
+    second: 005_14
+  - first:
+      213: -1378415631124411858
+    second: 005_15
+  - first:
+      213: -5659654121938711731
+    second: 005_16
+  - first:
+      213: 6323074739262006896
+    second: 005_17
+  - first:
+      213: 3403153846108100838
+    second: 005_18
+  - first:
+      213: 6607281088437216898
+    second: 005_19
+  - first:
+      213: 6341336896169025144
+    second: 005_20
+  - first:
+      213: 7483625463093154110
+    second: 005_21
+  - first:
+      213: 2695805843950433664
+    second: 005_22
+  - first:
+      213: 6988680047676016645
+    second: 005_23
+  - first:
+      213: -6339957040772050367
+    second: 005_24
+  - first:
+      213: -5343293299864670851
+    second: 005_25
+  - first:
+      213: 9019277719051879782
+    second: 005_26
+  - first:
+      213: -7220910204722813543
+    second: 005_27
+  - first:
+      213: 5681269330757620636
+    second: 005_28
+  - first:
+      213: -5814152437105098699
+    second: 005_29
+  - first:
+      213: -8181933059738542782
+    second: 005_30
+  - first:
+      213: 872487124868734507
+    second: 005_31
+  - first:
+      213: -2575987051023473436
+    second: 005_32
+  - first:
+      213: 1316939830320039729
+    second: 005_33
+  - first:
+      213: -8047057704573358506
+    second: 005_34
+  - first:
+      213: 3159094443855195531
+    second: 005_35
+  - first:
+      213: -7954323088166327688
+    second: 005_36
+  - first:
+      213: -7732819396059124134
+    second: 005_37
+  - first:
+      213: -7082072879351278814
+    second: 005_38
+  - first:
+      213: 9147253316439920634
+    second: 005_39
+  - first:
+      213: -8244045613972901056
+    second: 005_40
+  - first:
+      213: 9214201298737625446
+    second: 005_41
+  - first:
+      213: -8708926003267553679
+    second: 005_42
+  - first:
+      213: 5450550414707972084
+    second: 005_43
+  - first:
+      213: 2104495276537490886
+    second: 005_44
+  - first:
+      213: 4296184841944204685
+    second: 005_45
+  - first:
+      213: 1611950427667650610
+    second: 005_46
+  - first:
+      213: 3273490980027361326
+    second: 005_47
+  - first:
+      213: 2002312336073577380
+    second: 005_48
+  - first:
+      213: -8234851451805218839
+    second: 005_49
+  - first:
+      213: -5904064549228385820
+    second: 005_50
+  - first:
+      213: -282352161663539046
+    second: 005_51
+  - first:
+      213: -5866146734367783093
+    second: 005_52
+  - first:
+      213: -1979831287583779164
+    second: 005_53
+  - first:
+      213: 3878166025286224521
+    second: 005_54
+  - first:
+      213: -4425148122767238803
+    second: 005_55
+  - first:
+      213: 5772370008080015732
+    second: 005_56
+  - first:
+      213: 6324431749020785460
+    second: 005_57
+  - first:
+      213: -3638696346246660932
+    second: 005_58
+  - first:
+      213: -1367631721707816753
+    second: 005_59
+  - first:
+      213: 6815992457925994132
+    second: 005_60
+  - first:
+      213: -398386315533366535
+    second: 005_61
+  - first:
+      213: -2017721050901339559
+    second: 005_62
+  - first:
+      213: 3006295262456495877
+    second: 005_63
+  - first:
+      213: -86093856383667975
+    second: 005_64
+  - first:
+      213: -110136047215370119
+    second: 005_65
+  - first:
+      213: -4728770166666267893
+    second: 005_66
+  - first:
+      213: 6939777546011694025
+    second: 005_67
+  - first:
+      213: 2715010643282557470
+    second: 005_68
+  - first:
+      213: 3343221802848950782
+    second: 005_69
+  - first:
+      213: -4898593156818325344
+    second: 005_70
+  - first:
+      213: -5442080944318832125
+    second: 005_71
+  - first:
+      213: -1342331087647218328
+    second: 005_72
+  - first:
+      213: -711324474050389370
+    second: 005_73
+  - first:
+      213: -1033654515452512160
+    second: 005_74
+  - first:
+      213: 8352277415062117761
+    second: 005_75
+  - first:
+      213: -4711008083575740527
+    second: 005_76
+  - first:
+      213: -5677502516698540633
+    second: 005_77
+  - first:
+      213: -8926405811620065919
+    second: 005_78
+  - first:
+      213: 125083289225324079
+    second: 005_79
+  - first:
+      213: -2698998594942804537
+    second: 005_80
+  - first:
+      213: 2410507126208610203
+    second: 005_81
+  - first:
+      213: 8677616771857118741
+    second: 005_82
+  - first:
+      213: 7960790365279638909
+    second: 005_83
+  - first:
+      213: 2771453640659616166
+    second: 005_84
+  - first:
+      213: -2797677621920062898
+    second: 005_85
+  - first:
+      213: -7226270180071209280
+    second: 005_86
+  - first:
+      213: -8737586762588032282
+    second: 005_87
+  - first:
+      213: -3788044285111505398
+    second: 005_88
+  - first:
+      213: -2285652932651617746
+    second: 005_89
+  - first:
+      213: -4701764726095581088
+    second: 005_90
+  - first:
+      213: 2051409997162891280
+    second: 005_91
+  - first:
+      213: 4289033915722595237
+    second: 005_92
+  - first:
+      213: 2376055936042172033
+    second: 005_93
+  - first:
+      213: 3202377031544534249
+    second: 005_94
+  - first:
+      213: 60930493691412211
+    second: 005_95
+  - first:
+      213: -6861822548076601275
+    second: 005_96
+  - first:
+      213: 4380168237257229155
+    second: 005_97
+  - first:
+      213: -5457025164755626160
+    second: 005_98
+  - first:
+      213: 3774531935129775472
+    second: 005_99
+  - first:
+      213: -8705718827172288565
+    second: 005_100
+  - first:
+      213: 5433765233887012937
+    second: 005_101
+  - first:
+      213: -4953473473611290887
+    second: 005_102
+  - first:
+      213: -4968159809989748002
+    second: 005_103
+  - first:
+      213: 8472045935153949781
+    second: 005_104
+  - first:
+      213: -8302332495968211493
+    second: 005_105
+  - first:
+      213: -8555840034523809638
+    second: 005_106
+  - first:
+      213: -7064548349830747863
+    second: 005_107
+  - first:
+      213: 5883795824632747050
+    second: 005_108
+  - first:
+      213: -501812305057172609
+    second: 005_109
+  - first:
+      213: 2099533895959905599
+    second: 005_110
+  - first:
+      213: 4966547059644947811
+    second: 005_111
+  - first:
+      213: 1369250151261432205
+    second: 005_112
+  - first:
+      213: -2444773460920808591
+    second: 005_113
+  - first:
+      213: 122766361302755531
+    second: 005_114
+  - first:
+      213: -9098811725172520812
+    second: 005_115
+  - first:
+      213: -5814753512654513352
+    second: 005_116
+  - first:
+      213: -7631946004110643711
+    second: 005_117
+  - first:
+      213: -1129931721876958375
+    second: 005_118
+  - first:
+      213: -4741007007387496744
+    second: 005_119
+  - first:
+      213: -663783632471055627
+    second: 005_120
+  - first:
+      213: -3630529358133646632
+    second: 005_121
+  - first:
+      213: 1567409632084428893
+    second: 005_122
+  - first:
+      213: 6805102137424249168
+    second: 005_123
+  - first:
+      213: -1844219239273457972
+    second: 005_124
+  - first:
+      213: 1351059434938368174
+    second: 005_125
+  - first:
+      213: 6360563892425980084
+    second: 005_126
+  - first:
+      213: 2177346336697665085
+    second: 005_127
+  - first:
+      213: -6096620094056598798
+    second: 005_128
+  - first:
+      213: 2722849713007396583
+    second: 005_129
+  - first:
+      213: 1253921653421094174
+    second: 005_130
+  - first:
+      213: 9140566880794251905
+    second: 005_131
+  - first:
+      213: -4127959518539069590
+    second: 005_132
+  - first:
+      213: -8901857299773337689
+    second: 005_133
+  - first:
+      213: -6794271294070590281
+    second: 005_134
+  - first:
+      213: -7717520298781283153
+    second: 005_135
+  - first:
+      213: -4507782737348145234
+    second: 005_136
+  - first:
+      213: -6787222464080514722
+    second: 005_137
+  - first:
+      213: 7122206081881958575
+    second: 005_138
+  - first:
+      213: 8475909134012479068
+    second: 005_139
+  - first:
+      213: -4566044736798083889
+    second: 005_140
+  - first:
+      213: 2502561183802127001
+    second: 005_141
+  - first:
+      213: -6932844556364869730
+    second: 005_142
+  - first:
+      213: 2022711935006547270
+    second: 005_143
+  - first:
+      213: -6140615785485902070
+    second: 005_144
+  - first:
+      213: -7613120839355219402
+    second: 005_145
+  - first:
+      213: 8819232968130384421
+    second: 005_146
+  - first:
+      213: 3604601977404692814
+    second: 005_147
+  - first:
+      213: 1644585792494974260
+    second: 005_148
+  - first:
+      213: -869366212158914049
+    second: 005_149
+  - first:
+      213: -6703592931739494746
+    second: 005_150
+  - first:
+      213: 5702093031325603226
+    second: 005_151
+  - first:
+      213: 830224609256142259
+    second: 005_152
+  - first:
+      213: -4596409245859325435
+    second: 005_153
+  - first:
+      213: -8827469540730560104
+    second: 005_154
+  - first:
+      213: 1659320055817689331
+    second: 005_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kunekt 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 928
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f1a3ac5337fe458414f32e6c4b7bf
+      internalID: 558644221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 928
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1106284deb9b044fbb5f81a4ad1dded
+      internalID: -642179148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 928
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e4ae3a928e9b49b56c708ebc69795
+      internalID: -426325924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 928
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7f72549859b142be048acccfe9c00
+      internalID: 1785848214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 928
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209050ba9ad4e548ab9d44163b1050c
+      internalID: -1711390349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 928
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9397bee1c604f4d9b77112a2c02bc1
+      internalID: -70796434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 928
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2918b961fdd34497c1892ae944df9
+      internalID: -908786980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671eb3eecb2ca84388b351fe5ed5a23
+      internalID: 2085239171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc9981c3021e643ac9130226f06a83
+      internalID: -2146496774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6c7eb6fa4e6848938ae5aef61d9ac
+      internalID: -904131128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d414d1f067bd4b8e684d1c989d79e
+      internalID: 1407886802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2024e9a88242f4d8cbdc2a612cf09c
+      internalID: 1440628843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e871efeed0aaf4887389884f8ca9eb
+      internalID: 767514723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 896
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d605966543fae324a94a83476fa3e131
+      internalID: -314980783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203dc3adbbcca646991c7e2482f4d22
+      internalID: -1124945821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004b1e544094114ca95b1f428c80727
+      internalID: -1771081167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739fda2f19a0d534490084a8a077e004
+      internalID: -2100650300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d988ed1d9a367f408a1190fa497a3bd
+      internalID: -90934710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410ecde511d13c4f9a3e1bd7d680e1f
+      internalID: 1949861143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d003a19d80f966469db84f78d7a7826
+      internalID: 2114956021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 864
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa315b02d19974e9329a356142f75e
+      internalID: 1469825751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d84c065371c7a44492a30cb5105faff
+      internalID: 1847110316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c2d909d20f5b143b9fb742b0e5d590
+      internalID: 1389683103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1815ad23b340c40b502511d9b8914f
+      internalID: 1333988808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842c5563c787aa4d8b25b3a4d4a8353
+      internalID: 1130425752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5368f3c40a1ef4a8006403a237306e
+      internalID: 745068934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a05b754cb25ab4bb2df33cf0e912a1
+      internalID: -274402297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 832
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87d0038746e65468b887e81786d199
+      internalID: -169736517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168625bad2b797f4d9956c5c344fdaf5
+      internalID: -2010661894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ccd8efe58a090438e2e0c0399703da
+      internalID: -186342817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950201562542fbc4e8e0c884152503af
+      internalID: -1775930128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc398c5893792547b87984a93c9d151
+      internalID: -996237361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e5fc7fe47b9a46903de8feeb4cfbb
+      internalID: 957691672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecacc947b5906944a8aa89f7170314af
+      internalID: -491654506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d52ac5cb02bb4d98b82cff8f92352
+      internalID: -907187688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df987f72975dcce4fbef5183c9308d77
+      internalID: -896546673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19284ad99099f7e4c948a72b16264b4a
+      internalID: -135580391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae3c18e4b8524e40993b92c35aca03b
+      internalID: -1974054526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22875c90c89e6f4eac4b7911a4c4d38
+      internalID: 589089627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5357a5ae65dd4eaa6be8583d7de15
+      internalID: -921469786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ac46a725f4a848af231d2a594821d
+      internalID: 668122773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 768
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c17712b8053d499d03c70aca8e64c
+      internalID: 1362358885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdc8701b67f5b2428f5f0cc29aa9554
+      internalID: 8349921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d630629cba8a24283e849b0e1b1d18
+      internalID: 1201881810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4f5a5a85a00543832b3dc9cd07062
+      internalID: -1526029963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0171c4b205296440b296e9985c439c4
+      internalID: 313431169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643f7c38f247054593f43d27d4fcec4
+      internalID: 330785915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a1fbd1232eb8145a813e7e106e354e
+      internalID: 880487150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 736
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ee0fe099122e45a8e6e2f9bd0e558
+      internalID: 954580020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d53e310111ab384a8d46796d1b81e39
+      internalID: -872326962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9969101868ac74fa9599c2741a7f6b
+      internalID: -1220019017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b824eef56bca9f4f9939280e624c64b
+      internalID: -1834777707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97238d1da804eec4ba70d1917e75a2e4
+      internalID: -1114279345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56855ab7a910fb04d82f045f7cbbeb82
+      internalID: -594393459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e20e701f0179ef40912745158f5a95b
+      internalID: -2116089828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 704
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32755706b27c6e4f8612c13a94f210a
+      internalID: -1578235544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77068501842f0fc4bb35ea5a6faa5d12
+      internalID: 686429914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7b364c210a4d4992881f664b343cc
+      internalID: -1421741337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14605a0dfc4e046898c78fa4991caf
+      internalID: -1587497111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dff64875205e14aa8a0272c2a99956
+      internalID: 831868595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d332c3e55310a1488f05023ff44f489
+      internalID: 24422578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd981922a2fe8a4085c439b64d07df2
+      internalID: -1230532496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 672
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6dc82ab8dc0d64da6a46553de8b52f
+      internalID: -467289021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb287e1753905f64ca958a54983877f6
+      internalID: 2126856351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a67554902db746b905636630f06e4
+      internalID: 1402623647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc8ea0e403a1a46827ad18c7ae56b4
+      internalID: -829482145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c8227e6269e942acc7737535bc008
+      internalID: 986884371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668c74eb573fde40a039348b79cba18
+      internalID: 546176657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_68
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d9fcd2f247944f814fa8c696e29e0
+      internalID: 147549121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c2ce1c259ff64b959e4fb5a87c36b
+      internalID: 1442952474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775c300fbbcdd64492014c1ff2fb1e6
+      internalID: -1110058157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c304b307a7f0648b9c85162fd4d668
+      internalID: 1606762789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21779b387d5c53445a1977a4ce35c753
+      internalID: 1651380960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568ede67b73d74499c104a5d7f7e547
+      internalID: -2088990801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f0b0427eb37f49998bb12e3eb168e
+      internalID: -897577077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8897744993d0a4dbbea7ad55f79c76
+      internalID: 1034818768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 608
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ca6d71a4025b4fafd2e0c40f5e8b7
+      internalID: 511206114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc0b7065c08fb439ca4b6e7a19f4e0
+      internalID: 1177334713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6889d7d04cf87d94eb7c584234fd0fb8
+      internalID: 2073596495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d90ea051900314a8d308ff091bf029
+      internalID: 912985052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c945b26cef6324a86d27738ccd4c24
+      internalID: 1789917262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23056c8e5341b1d46adfd6839cf89a96
+      internalID: -652572456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab4e4c29f349142943eae479c86def
+      internalID: 1680612155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 576
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de928fd0481cf4d49925499a31ea01fd
+      internalID: -1924921885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d37a29b7f4dc34cb94b5994c12c5f4
+      internalID: -1943058786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_85
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c87b155183e6449f2e167e92f204e
+      internalID: -2091573324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb7f8308d64b24c969c20f00dfe995
+      internalID: -1668043753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d274960004e6e64286ce16d409fb1fd
+      internalID: -15294480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4555822b58205428ab8aed0a7201b5
+      internalID: -1196951342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6da87e5b961cc438fc720f1b229c85
+      internalID: -981394324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 544
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ebc6e99197c140bb5ca7c31b3cdb5
+      internalID: 883192176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f70ef1ef508446aa8a3920c136ac4
+      internalID: -705573861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e917488ad4d3e944a1bea34de059e0d
+      internalID: 210318868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_93
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ea8b65334d9645b8a3a5fb8702e0d
+      internalID: -1848961944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d2296d995a6240a6796fa329895cf
+      internalID: -1681547020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170a4cf33c9d5244b236c1e368319e5
+      internalID: -452191076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_96
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa5d02e6881d3b4c9d82cd77334ac32
+      internalID: 564293367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 512
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a43edf56e4694087f5b386b17ec12
+      internalID: 1544791442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a03b2e36ba9347a04e7384cc8b916
+      internalID: 1811483475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf75d376eea13a44817aa02288cd380
+      internalID: -739157606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066dcbcbc1f8df742b09483084a2940e
+      internalID: -648516562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44002da3f560884480cd10989c5557a
+      internalID: 143818812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d1f6a3dc9733479d954164d352cc6
+      internalID: -83789747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_103
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871b2110e4dd8346a11b5da157d3212
+      internalID: -1141474800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_104
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb89dbc50552246968a8851d781a05
+      internalID: 993490880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136dac0d63653740b4c6676cbd7d51a
+      internalID: 2085781860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18df49d7f08b19743a7275de184cc0a1
+      internalID: -420510364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb69b0a134e9674f962ece7e2d6af01
+      internalID: -1996241029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_108
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8cfd0a20fecf4e8889dcd4a8a9234
+      internalID: -105207471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4ef76d16714d747b0b3d5e8c31796e
+      internalID: 1420642540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_110
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb70dc033240cc418a16b609f1b0a57
+      internalID: -1917792102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 448
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af9b7081bf6c146985d544f77b8171
+      internalID: -1239604532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c57f3d774109a47a6cea189dac5beb
+      internalID: 1546790775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc42be43ed1c4c4ebf787fb687481c0
+      internalID: 514887355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5dbfb000abb4647a0b2a462ff8ecbb
+      internalID: 601554169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_115
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08447e17280b977429f451bac1f3a2b5
+      internalID: -1439388684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22caf24446aba36408ae823d2a66fc24
+      internalID: -1857092180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_117
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030a24a19a21b54292090b4ee823bda
+      internalID: 488750624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_118
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa474b559d78f994b93320e24ed1acae
+      internalID: -1231998672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27d7b667e6107428807e9203828ba6
+      internalID: 869883227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeba9c3d74ee0249a925801808cd573
+      internalID: 2071502831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ab68158e30896499e4d626ba8b2f80
+      internalID: 1171063593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048d11c110f40945b2c1d3496240cc0
+      internalID: 243359044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc661faa54c48438cb556bc68a7f3d
+      internalID: 552328658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_124
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f4122b0af93b4c86000935a9e9080
+      internalID: 147430488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 384
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a0888a5fe5ea41be154fae46705ea
+      internalID: 1694704147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f3f020cd651246a1550e385d75344
+      internalID: -2056619951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_127
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88246af1c5eea004c8bc2de157512b7a
+      internalID: -189340675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b996c0454d5218e4f92516404809248b
+      internalID: 1465985364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39ed5d279c551c4095e24176877d3e4
+      internalID: -1942387333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b5230b54a69e4380c7f5dcb529fd1
+      internalID: -1034574348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_131
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9682513480a54683b1c5df78ee30e
+      internalID: 609480307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_132
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 352
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2822b885d5570e541ab65da9f1e85ec9
+      internalID: 1666076909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c6f93231f7ed409b0ed4b8945c77c
+      internalID: -444754637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caff617954b6ba49855c41fb0f79dcb
+      internalID: 124279517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc54f8a3ae94bb4e8d89bc7820ba972
+      internalID: 1283033007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd014d1367c204abeef1cc68a01d97
+      internalID: 131102721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf929815b32d2ed4196e04dac3efa55e
+      internalID: -58366226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_138
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabcaf02223f5145bd4e75b2d0913fe
+      internalID: -948958883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b65f9b1d79aaa8488b043e7a01635c7
+      internalID: 911119011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd662713f6f5d864a8e155e176391326
+      internalID: -726312663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8611168296fcc443879c0d6e6465f9c
+      internalID: 1148588549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c53c1af927260428fc79c3198a31e5
+      internalID: -806465146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4681d3e53c4bb94681890234909b8d4
+      internalID: 1135706275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_144
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f132f41dfb8122c40b58a13e465ebd99
+      internalID: -470188040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4107611135115364297c5e82f5471661
+      internalID: 1574027002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac21dd5c7a1e84c913d4690e243093
+      internalID: -1436283548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f74a9a61df177249958c9f46be98b91
+      internalID: -615297090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_148
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77ee558803bfd4cb2c7ec548c1dc6c
+      internalID: -253640606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_149
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c503bfb67bff1d42b9dd0fe86e12dd1
+      internalID: 746500468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_150
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138b4aaa0d9f184387959aefe42f4ea
+      internalID: -1332264422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_151
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b26384236e012a40a973266165b5907
+      internalID: -114160482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_152
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bdc21648c0b3a4b90be1c9ecaba2c8
+      internalID: -599563828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_153
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 256
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b9737b795d8764bb4ab92d858c0a5b
+      internalID: 2002309131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832caa3579276149a52c7b1453d20f9
+      internalID: -2094626090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_155
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a54a37edafc814c933006b04b8b4be
+      internalID: 377596119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_156
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94f7160526cdc459d50cef68d37fa9
+      internalID: 2117154369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_157
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046b0cc5263bd9d49ac72be5e6ad3167
+      internalID: -1278554855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce793473ae42c54ca51529a923dc679
+      internalID: 902897489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_159
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9988b6dcb1c665145826a88fce6922ba
+      internalID: 949419275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_160
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371631bfff08a0744926e5c529badcb8
+      internalID: -64964610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f2b391e55c244fa729eaeaa351657
+      internalID: -1205044657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_162
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ae687ad0d1114c92a4b1068a494e4
+      internalID: 916150428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc08ac287250f284c81c04158a9436cb
+      internalID: -1493063654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_164
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5410ab14562a468460d8ed0abfe95
+      internalID: 857875451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_165
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c57e6ad9e8fe542a41d427185a3d47
+      internalID: 528996905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_166
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d645a3573bf04296f6a4c5a299f97
+      internalID: -1826112207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_167
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955cf5cb3b784c145bbb26ee8e056b12
+      internalID: 535482471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bac45160567ca4086268ad848c38fb
+      internalID: 1835500613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_169
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568bc87946c260f479c92640b66cd95e
+      internalID: 555226485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_170
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d718fb66694e347a9940a56d615dbc
+      internalID: -1432328989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_171
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adaefc96c44bb143b3b886f3690880d
+      internalID: -88527797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7786e9685bf414cb697ae240e86928
+      internalID: 1568498310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_173
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da55843ba34595749a5ddd0a8ec19b96
+      internalID: 644796174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45f7ddc21424224fa6bde05d67d281c
+      internalID: -636692825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b949e6e06897f4587b0dfa17daca53
+      internalID: 416025215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_176
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819eedc290f14b418c023c869742538
+      internalID: -1347023267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_177
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c5f05f0269e4149b154f2e156cb1be
+      internalID: 1181229248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ee604b51c24146807dc08dbf161c0
+      internalID: 55806414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_179
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c121d2d5c12f46a208d3164bfe948
+      internalID: 531067266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_180
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26fdf499488dc349a9e6540690d97e0
+      internalID: 1649991960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_181
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc68856eb372a214d8da1a8505d4c7bd
+      internalID: 1767494661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b4b8a09ec5b942b45851f6c9b3714
+      internalID: 597832841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_183
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503639b60913c3429373bd4891599df
+      internalID: -1017401092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_184
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ddf2cf83b76fd48bdf2da97f00aa49
+      internalID: 1785579673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_185
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293263fc064e14745a5e97af71b0f352
+      internalID: -849723796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_186
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533813516313cc4a842fba2cbc01d4b
+      internalID: -1474877833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_187
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e9cea23f3a63c41986b7c83596ad8f
+      internalID: 1042105049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_188
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 96
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ca53de2927f1479c56b6f16dd17cc
+      internalID: 1411907286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051bc1a38aa9884f80fcad5458d2020
+      internalID: -1608594985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_190
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1534ee0215a0f941bee487f30de99c7
+      internalID: -1317952645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_191
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e717d7c873a54fb6262fead1568a2
+      internalID: 256896980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_192
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736fa6a716344ec4c921bbbbaf3d4fda
+      internalID: -837181860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_193
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f42174c3619443b369b1895132596
+      internalID: -615965212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_194
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38650bd08d780aa408b32f279b5c4cb0
+      internalID: 1835323246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_195
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 64
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28572f1d786d2d4aba2a5858f2c200e
+      internalID: -1432056322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f2603c8e5e214e8739a07eb0e1533
+      internalID: -572617416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_197
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d5fb8199bbbf4eb2cf0a7d92b8643
+      internalID: 1033429567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_198
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4371d3457aa74204d82dae7df56383d7
+      internalID: 1604886141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_199
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b72559714447408a45f1b1f6f43c2
+      internalID: -1930890808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_200
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab26cfc3ab16c4eb10dd2340dde23e
+      internalID: -703042446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_201
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4105449efa7595b42afe8b166467c973
+      internalID: 1997809391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_202
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 32
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c18df846796ec4d9af988880b74473
+      internalID: 1077950781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b760eb7c2fd4e4fb6e2a4cd275c142
+      internalID: -1265899519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_204
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0105fecd240ec654baedaf8426a5ac9b
+      internalID: -404245201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059663e8ccc8134eba491e079e8f439
+      internalID: -378053160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kunekt 16x16_206
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ff70e4427d4149b2b498f4087eea7
+      internalID: 814042668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b2117112afc33f54e88b60af3087081a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":50.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Kunekt 16x16_0: 558644221
+      Kunekt 16x16_1: -642179148
+      Kunekt 16x16_10: 1407886802
+      Kunekt 16x16_100: -648516562
+      Kunekt 16x16_101: 143818812
+      Kunekt 16x16_102: -83789747
+      Kunekt 16x16_103: -1141474800
+      Kunekt 16x16_104: 993490880
+      Kunekt 16x16_105: 2085781860
+      Kunekt 16x16_106: -420510364
+      Kunekt 16x16_107: -1996241029
+      Kunekt 16x16_108: -105207471
+      Kunekt 16x16_109: 1420642540
+      Kunekt 16x16_11: 1440628843
+      Kunekt 16x16_110: -1917792102
+      Kunekt 16x16_111: -1239604532
+      Kunekt 16x16_112: 1546790775
+      Kunekt 16x16_113: 514887355
+      Kunekt 16x16_114: 601554169
+      Kunekt 16x16_115: -1439388684
+      Kunekt 16x16_116: -1857092180
+      Kunekt 16x16_117: 488750624
+      Kunekt 16x16_118: -1231998672
+      Kunekt 16x16_119: 869883227
+      Kunekt 16x16_12: 767514723
+      Kunekt 16x16_120: 2071502831
+      Kunekt 16x16_121: 1171063593
+      Kunekt 16x16_122: 243359044
+      Kunekt 16x16_123: 552328658
+      Kunekt 16x16_124: 147430488
+      Kunekt 16x16_125: 1694704147
+      Kunekt 16x16_126: -2056619951
+      Kunekt 16x16_127: -189340675
+      Kunekt 16x16_128: 1465985364
+      Kunekt 16x16_129: -1942387333
+      Kunekt 16x16_13: -314980783
+      Kunekt 16x16_130: -1034574348
+      Kunekt 16x16_131: 609480307
+      Kunekt 16x16_132: 1666076909
+      Kunekt 16x16_133: -444754637
+      Kunekt 16x16_134: 124279517
+      Kunekt 16x16_135: 1283033007
+      Kunekt 16x16_136: 131102721
+      Kunekt 16x16_137: -58366226
+      Kunekt 16x16_138: -948958883
+      Kunekt 16x16_139: 911119011
+      Kunekt 16x16_14: -1124945821
+      Kunekt 16x16_140: -726312663
+      Kunekt 16x16_141: 1148588549
+      Kunekt 16x16_142: -806465146
+      Kunekt 16x16_143: 1135706275
+      Kunekt 16x16_144: -470188040
+      Kunekt 16x16_145: 1574027002
+      Kunekt 16x16_146: -1436283548
+      Kunekt 16x16_147: -615297090
+      Kunekt 16x16_148: -253640606
+      Kunekt 16x16_149: 746500468
+      Kunekt 16x16_15: -1771081167
+      Kunekt 16x16_150: -1332264422
+      Kunekt 16x16_151: -114160482
+      Kunekt 16x16_152: -599563828
+      Kunekt 16x16_153: 2002309131
+      Kunekt 16x16_154: -2094626090
+      Kunekt 16x16_155: 377596119
+      Kunekt 16x16_156: 2117154369
+      Kunekt 16x16_157: -1278554855
+      Kunekt 16x16_158: 902897489
+      Kunekt 16x16_159: 949419275
+      Kunekt 16x16_16: -2100650300
+      Kunekt 16x16_160: -64964610
+      Kunekt 16x16_161: -1205044657
+      Kunekt 16x16_162: 916150428
+      Kunekt 16x16_163: -1493063654
+      Kunekt 16x16_164: 857875451
+      Kunekt 16x16_165: 528996905
+      Kunekt 16x16_166: -1826112207
+      Kunekt 16x16_167: 535482471
+      Kunekt 16x16_168: 1835500613
+      Kunekt 16x16_169: 555226485
+      Kunekt 16x16_17: -90934710
+      Kunekt 16x16_170: -1432328989
+      Kunekt 16x16_171: -88527797
+      Kunekt 16x16_172: 1568498310
+      Kunekt 16x16_173: 644796174
+      Kunekt 16x16_174: -636692825
+      Kunekt 16x16_175: 416025215
+      Kunekt 16x16_176: -1347023267
+      Kunekt 16x16_177: 1181229248
+      Kunekt 16x16_178: 55806414
+      Kunekt 16x16_179: 531067266
+      Kunekt 16x16_18: 1949861143
+      Kunekt 16x16_180: 1649991960
+      Kunekt 16x16_181: 1767494661
+      Kunekt 16x16_182: 597832841
+      Kunekt 16x16_183: -1017401092
+      Kunekt 16x16_184: 1785579673
+      Kunekt 16x16_185: -849723796
+      Kunekt 16x16_186: -1474877833
+      Kunekt 16x16_187: 1042105049
+      Kunekt 16x16_188: 1411907286
+      Kunekt 16x16_189: -1608594985
+      Kunekt 16x16_19: 2114956021
+      Kunekt 16x16_190: -1317952645
+      Kunekt 16x16_191: 256896980
+      Kunekt 16x16_192: -837181860
+      Kunekt 16x16_193: -615965212
+      Kunekt 16x16_194: 1835323246
+      Kunekt 16x16_195: -1432056322
+      Kunekt 16x16_196: -572617416
+      Kunekt 16x16_197: 1033429567
+      Kunekt 16x16_198: 1604886141
+      Kunekt 16x16_199: -1930890808
+      Kunekt 16x16_2: -426325924
+      Kunekt 16x16_20: 1469825751
+      Kunekt 16x16_200: -703042446
+      Kunekt 16x16_201: 1997809391
+      Kunekt 16x16_202: 1077950781
+      Kunekt 16x16_203: -1265899519
+      Kunekt 16x16_204: -404245201
+      Kunekt 16x16_205: -378053160
+      Kunekt 16x16_206: 814042668
+      Kunekt 16x16_21: 1847110316
+      Kunekt 16x16_22: 1389683103
+      Kunekt 16x16_23: 1333988808
+      Kunekt 16x16_24: 1130425752
+      Kunekt 16x16_25: 745068934
+      Kunekt 16x16_26: -274402297
+      Kunekt 16x16_27: -169736517
+      Kunekt 16x16_28: -2010661894
+      Kunekt 16x16_29: -186342817
+      Kunekt 16x16_3: 1785848214
+      Kunekt 16x16_30: -1775930128
+      Kunekt 16x16_31: -996237361
+      Kunekt 16x16_32: 957691672
+      Kunekt 16x16_33: -491654506
+      Kunekt 16x16_34: -907187688
+      Kunekt 16x16_35: -896546673
+      Kunekt 16x16_36: -135580391
+      Kunekt 16x16_37: -1974054526
+      Kunekt 16x16_38: 589089627
+      Kunekt 16x16_39: -921469786
+      Kunekt 16x16_4: -1711390349
+      Kunekt 16x16_40: 668122773
+      Kunekt 16x16_41: 1362358885
+      Kunekt 16x16_42: 8349921
+      Kunekt 16x16_43: 1201881810
+      Kunekt 16x16_44: -1526029963
+      Kunekt 16x16_45: 313431169
+      Kunekt 16x16_46: 330785915
+      Kunekt 16x16_47: 880487150
+      Kunekt 16x16_48: 954580020
+      Kunekt 16x16_49: -872326962
+      Kunekt 16x16_5: -70796434
+      Kunekt 16x16_50: -1220019017
+      Kunekt 16x16_51: -1834777707
+      Kunekt 16x16_52: -1114279345
+      Kunekt 16x16_53: -594393459
+      Kunekt 16x16_54: -2116089828
+      Kunekt 16x16_55: -1578235544
+      Kunekt 16x16_56: 686429914
+      Kunekt 16x16_57: -1421741337
+      Kunekt 16x16_58: -1587497111
+      Kunekt 16x16_59: 831868595
+      Kunekt 16x16_6: -908786980
+      Kunekt 16x16_60: 24422578
+      Kunekt 16x16_61: -1230532496
+      Kunekt 16x16_62: -467289021
+      Kunekt 16x16_63: 2126856351
+      Kunekt 16x16_64: 1402623647
+      Kunekt 16x16_65: -829482145
+      Kunekt 16x16_66: 986884371
+      Kunekt 16x16_67: 546176657
+      Kunekt 16x16_68: 147549121
+      Kunekt 16x16_69: 1442952474
+      Kunekt 16x16_7: 2085239171
+      Kunekt 16x16_70: -1110058157
+      Kunekt 16x16_71: 1606762789
+      Kunekt 16x16_72: 1651380960
+      Kunekt 16x16_73: -2088990801
+      Kunekt 16x16_74: -897577077
+      Kunekt 16x16_75: 1034818768
+      Kunekt 16x16_76: 511206114
+      Kunekt 16x16_77: 1177334713
+      Kunekt 16x16_78: 2073596495
+      Kunekt 16x16_79: 912985052
+      Kunekt 16x16_8: -2146496774
+      Kunekt 16x16_80: 1789917262
+      Kunekt 16x16_81: -652572456
+      Kunekt 16x16_82: 1680612155
+      Kunekt 16x16_83: -1924921885
+      Kunekt 16x16_84: -1943058786
+      Kunekt 16x16_85: -2091573324
+      Kunekt 16x16_86: -1668043753
+      Kunekt 16x16_87: -15294480
+      Kunekt 16x16_88: -1196951342
+      Kunekt 16x16_89: -981394324
+      Kunekt 16x16_9: -904131128
+      Kunekt 16x16_90: 883192176
+      Kunekt 16x16_91: -705573861
+      Kunekt 16x16_92: 210318868
+      Kunekt 16x16_93: -1848961944
+      Kunekt 16x16_94: -1681547020
+      Kunekt 16x16_95: -452191076
+      Kunekt 16x16_96: 564293367
+      Kunekt 16x16_97: 1544791442
+      Kunekt 16x16_98: 1811483475
+      Kunekt 16x16_99: -739157606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

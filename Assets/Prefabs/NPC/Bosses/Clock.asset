@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae2e2fce506b3a489e2a66fc5f727f5, type: 3}
+  m_Name: Clock
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueCharacter
+  characterName: Time
+  defaultSprite: {fileID: -6129436336681090288, guid: 01e88d7d680900644afa413e28995b9d, type: 3}
+  voiceClip: {fileID: 8300000, guid: b8321c22189c6db4aabf1ff259a52224, type: 3}
+  voicePitch: 1

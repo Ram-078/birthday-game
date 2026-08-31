@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 71fa4be9231b52546b6af338c511c203
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3201403062042354538
+    second: Museum_entrance_layer_2_0
+  - first:
+      213: 3119208154569402242
+    second: Museum_entrance_layer_2_1
+  - first:
+      213: -868183466080506584
+    second: Museum_entrance_layer_2_2
+  - first:
+      213: -1035180501741752848
+    second: Museum_entrance_layer_2_3
+  - first:
+      213: -8932794363397625709
+    second: Museum_entrance_layer_2_4
+  - first:
+      213: 99831727936082186
+    second: Museum_entrance_layer_2_5
+  - first:
+      213: 3462855565752642928
+    second: Museum_entrance_layer_2_6
+  - first:
+      213: -4371309419774669532
+    second: Museum_entrance_layer_2_7
+  - first:
+      213: -154214508301638318
+    second: Museum_entrance_layer_2_8
+  - first:
+      213: -1457696156000061596
+    second: Museum_entrance_layer_2_9
+  - first:
+      213: -4602046955151401911
+    second: Museum_entrance_layer_2_10
+  - first:
+      213: 4152665616752817328
+    second: Museum_entrance_layer_2_11
+  - first:
+      213: 2106104917778007784
+    second: Museum_entrance_layer_2_12
+  - first:
+      213: 3292999515584143754
+    second: Museum_entrance_layer_2_13
+  - first:
+      213: -4590220664830874312
+    second: Museum_entrance_layer_2_14
+  - first:
+      213: 5663803188552098099
+    second: Museum_entrance_layer_2_15
+  - first:
+      213: 6833986531783290941
+    second: Museum_entrance_layer_2_16
+  - first:
+      213: 4193093396399029224
+    second: Museum_entrance_layer_2_17
+  - first:
+      213: 680600234016530897
+    second: Museum_entrance_layer_2_18
+  - first:
+      213: -480359013589312039
+    second: Museum_entrance_layer_2_19
+  - first:
+      213: 8320746193393684430
+    second: Museum_entrance_layer_2_20
+  - first:
+      213: 5156149034378608989
+    second: Museum_entrance_layer_2_21
+  - first:
+      213: 9214045724201103173
+    second: Museum_entrance_layer_2_22
+  - first:
+      213: -4988954674893613729
+    second: Museum_entrance_layer_2_23
+  - first:
+      213: 8535656258469520534
+    second: Museum_entrance_layer_2_24
+  - first:
+      213: -1673979888562358301
+    second: Museum_entrance_layer_2_25
+  - first:
+      213: -2356511660524789997
+    second: Museum_entrance_layer_2_26
+  - first:
+      213: 3520548943585821363
+    second: Museum_entrance_layer_2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 292
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63e1e78f1bad6c20800000000000000
+      internalID: 3201403062042354538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876c915a47a94b20800000000000000
+      internalID: 3119208154569402242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 311
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6768ccb793f3f0800000000000000
+      internalID: -868183466080506584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 314
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda54b71dc42a1f0800000000000000
+      internalID: -1035180501741752848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 311
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a21ebad6580480800000000000000
+      internalID: -8932794363397625709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 314
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0191f87d6ca26100800000000000000
+      internalID: 99831727936082186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 311
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dab214ac88e0030800000000000000
+      internalID: 3462855565752642928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d030f2e3df553c0800000000000000
+      internalID: -4371309419774669532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 292
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552875c8be1cddf0800000000000000
+      internalID: -154214508301638318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 92
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f92fb11935cbe0800000000000000
+      internalID: -1457696156000061596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c588e4dae3220c0800000000000000
+      internalID: -4602046955151401911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4b78d606b31a930800000000000000
+      internalID: 4152665616752817328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e68cdb93436a3d10800000000000000
+      internalID: 2106104917778007784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a812de3cc9513bd20800000000000000
+      internalID: 3292999515584143754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d291810a24c40c0800000000000000
+      internalID: -4590220664830874312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 176
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3316f5bedfed99e40800000000000000
+      internalID: 5663803188552098099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 176
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303fbaea8237de50800000000000000
+      internalID: 6833986531783290941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 176
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb76626a3cd03a30800000000000000
+      internalID: 4193093396399029224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d16a9e8e4af17900800000000000000
+      internalID: 680600234016530897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 102
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd1a5ea50c6559f0800000000000000
+      internalID: -480359013589312039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf0a63e39a397370800000000000000
+      internalID: 8320746193393684430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 117
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d514c137a325e8740800000000000000
+      internalID: 5156149034378608989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fa63f94cddedf70800000000000000
+      internalID: 9214045724201103173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f551172e72ca3cab0800000000000000
+      internalID: -4988954674893613729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 86
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6946aeaa42eb47670800000000000000
+      internalID: 8535656258469520534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7b7151924d4c8e0800000000000000
+      internalID: -1673979888562358301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f9a5d412dfb4fd0800000000000000
+      internalID: -2356511660524789997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_entrance_layer_2_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24fcc8c908bd030800000000000000
+      internalID: 3520548943585821363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Museum_entrance_layer_2_0: 3201403062042354538
+      Museum_entrance_layer_2_1: 3119208154569402242
+      Museum_entrance_layer_2_10: -4602046955151401911
+      Museum_entrance_layer_2_11: 4152665616752817328
+      Museum_entrance_layer_2_12: 2106104917778007784
+      Museum_entrance_layer_2_13: 3292999515584143754
+      Museum_entrance_layer_2_14: -4590220664830874312
+      Museum_entrance_layer_2_15: 5663803188552098099
+      Museum_entrance_layer_2_16: 6833986531783290941
+      Museum_entrance_layer_2_17: 4193093396399029224
+      Museum_entrance_layer_2_18: 680600234016530897
+      Museum_entrance_layer_2_19: -480359013589312039
+      Museum_entrance_layer_2_2: -868183466080506584
+      Museum_entrance_layer_2_20: 8320746193393684430
+      Museum_entrance_layer_2_21: 5156149034378608989
+      Museum_entrance_layer_2_22: 9214045724201103173
+      Museum_entrance_layer_2_23: -4988954674893613729
+      Museum_entrance_layer_2_24: 8535656258469520534
+      Museum_entrance_layer_2_25: -1673979888562358301
+      Museum_entrance_layer_2_26: -2356511660524789997
+      Museum_entrance_layer_2_27: 3520548943585821363
+      Museum_entrance_layer_2_3: -1035180501741752848
+      Museum_entrance_layer_2_4: -8932794363397625709
+      Museum_entrance_layer_2_5: 99831727936082186
+      Museum_entrance_layer_2_6: 3462855565752642928
+      Museum_entrance_layer_2_7: -4371309419774669532
+      Museum_entrance_layer_2_8: -154214508301638318
+      Museum_entrance_layer_2_9: -1457696156000061596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

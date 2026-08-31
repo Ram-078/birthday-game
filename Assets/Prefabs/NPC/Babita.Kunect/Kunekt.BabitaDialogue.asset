@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c769e480bb381674c8568ff18149381b, type: 3}
+  m_Name: Kunekt.BabitaDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcCharacter: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+  lines:
+  - speaker: {fileID: 11400000, guid: 6cb4028ff2cc77e478bbb362e91e66cd, type: 2}
+    text: Wait, where am I?
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 6cb4028ff2cc77e478bbb362e91e66cd, type: 2}
+    text: Who are you???
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: "Salutations. \nI am Kunekt, the fairy of these memory lands."
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: 'You exist in the memory realm of shishi.
+
+      You are a part of it too.'
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: 'He is trapped and is in the control of a demon.
+
+      It rests upon your
+      shoulders to free him and this realm of the darkness.'
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: You will face many dangers as the fragments of this realm will turn against
+      you.
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: 'Fight through the chaos surrounding and you can rid this world of them. '
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: I will be present to guide you through these lands, for the sole reason
+      of my existence is to do so.
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: You will now get out of this limbo and enter the fragmented memories.
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: We are counting on you.
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: Farewell.
+    autoProgress: 0
+    autoProgressDuration: 1.25
+  typingSpeed: 0.075

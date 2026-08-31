@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6b1d30388e6bf49a8c589fab108f4b, type: 3}
+  m_Name: Clock
+  m_EditorClassIdentifier: Assembly-CSharp::BossData
+  bossID: Time
+  returnScene: Level3
+  bossName: Time
+  waitDuration: 1
+  maxHP: 120
+  damage: 22
+  actions: []
+  introLines:
+  - 'I''m running out...
+
+    I''m gonna take you away again...
+
+'
+  hitLines:
+  - 'I have more hands...
+
+    You can''t defeat me'
+  - Every second is bringing you closer to me
+  - That hurt ngl...
+  healLines:
+  - You're wasting me...
+  defeatLines:
+  - 'This is not happening....
+
+'

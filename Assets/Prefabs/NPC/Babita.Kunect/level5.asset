@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c769e480bb381674c8568ff18149381b, type: 3}
+  m_Name: level5
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcCharacter: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+  lines:
+  - speaker: {fileID: 11400000, guid: 6cb4028ff2cc77e478bbb362e91e66cd, type: 2}
+    text: 'Where is he???
+
+'
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 6cb4028ff2cc77e478bbb362e91e66cd, type: 2}
+    text: I should've found him by now...
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 6cb4028ff2cc77e478bbb362e91e66cd, type: 2}
+    text: And who is the orange haired lady who keeps cleaning everywhere???
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 6cb4028ff2cc77e478bbb362e91e66cd, type: 2}
+    text: TELL ME!!!
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: It was me.
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: I'm the demon.
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: And it's too late now...
+    autoProgress: 1
+    autoProgressDuration: 1.25
+  - speaker: {fileID: 11400000, guid: 757e9fef7d0d72640b1ce91c5a603167, type: 2}
+    text: This is the last day you were with him...
+    autoProgress: 0
+    autoProgressDuration: 1.25
+  typingSpeed: 0.075

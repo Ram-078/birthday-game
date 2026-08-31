@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 31a4ba1edd6fb394589643045a633b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8433859993431039743
+    second: Human Baby Sprite Sheet 3 - Guides_0
+  - first:
+      213: -631975036817917946
+    second: Human Baby Sprite Sheet 3 - Guides_1
+  - first:
+      213: -7134980560147371034
+    second: Human Baby Sprite Sheet 3 - Guides_2
+  - first:
+      213: 2917818207448023835
+    second: Human Baby Sprite Sheet 3 - Guides_3
+  - first:
+      213: 7078256250484393719
+    second: Human Baby Sprite Sheet 3 - Guides_4
+  - first:
+      213: -2574764484402743191
+    second: Human Baby Sprite Sheet 3 - Guides_5
+  - first:
+      213: -8087031356984074793
+    second: Human Baby Sprite Sheet 3 - Guides_6
+  - first:
+      213: 7344874465884207279
+    second: Human Baby Sprite Sheet 3 - Guides_7
+  - first:
+      213: 6512406894920728368
+    second: Human Baby Sprite Sheet 3 - Guides_8
+  - first:
+      213: -7363110590197150046
+    second: Human Baby Sprite Sheet 3 - Guides_9
+  - first:
+      213: -4832962853257710870
+    second: Human Baby Sprite Sheet 3 - Guides_10
+  - first:
+      213: -1220039828370902865
+    second: Human Baby Sprite Sheet 3 - Guides_11
+  - first:
+      213: -2618732834753963775
+    second: Human Baby Sprite Sheet 3 - Guides_12
+  - first:
+      213: 989090677384174921
+    second: Human Baby Sprite Sheet 3 - Guides_13
+  - first:
+      213: 8005347686770495285
+    second: Human Baby Sprite Sheet 3 - Guides_14
+  - first:
+      213: -3942485846020751725
+    second: Human Baby Sprite Sheet 3 - Guides_15
+  - first:
+      213: -6817509732184467564
+    second: Human Baby Sprite Sheet 3 - Guides_16
+  - first:
+      213: -3482496295174624261
+    second: Human Baby Sprite Sheet 3 - Guides_17
+  - first:
+      213: 1238665410409202213
+    second: Human Baby Sprite Sheet 3 - Guides_18
+  - first:
+      213: 501259823025665895
+    second: Human Baby Sprite Sheet 3 - Guides_19
+  - first:
+      213: -1675155650224082579
+    second: Human Baby Sprite Sheet 3 - Guides_20
+  - first:
+      213: -7954787999476656890
+    second: Human Baby Sprite Sheet 3 - Guides_21
+  - first:
+      213: 4691856406556247224
+    second: Human Baby Sprite Sheet 3 - Guides_22
+  - first:
+      213: 4431461175625692710
+    second: Human Baby Sprite Sheet 3 - Guides_23
+  - first:
+      213: -345396228004422232
+    second: Human Baby Sprite Sheet 3 - Guides_24
+  - first:
+      213: 6279726123352857229
+    second: Human Baby Sprite Sheet 3 - Guides_25
+  - first:
+      213: -6155899719769955680
+    second: Human Baby Sprite Sheet 3 - Guides_26
+  - first:
+      213: 1140424794241410063
+    second: Human Baby Sprite Sheet 3 - Guides_27
+  - first:
+      213: -6422123770440255674
+    second: Human Baby Sprite Sheet 3 - Guides_28
+  - first:
+      213: 2973345488512828723
+    second: Human Baby Sprite Sheet 3 - Guides_29
+  - first:
+      213: 8698665739830481998
+    second: Human Baby Sprite Sheet 3 - Guides_30
+  - first:
+      213: 8742310054620277241
+    second: Human Baby Sprite Sheet 3 - Guides_31
+  - first:
+      213: 1138771517843572376
+    second: Human Baby Sprite Sheet 3 - Guides_32
+  - first:
+      213: 8537298520219569047
+    second: Human Baby Sprite Sheet 3 - Guides_33
+  - first:
+      213: -3644603896385433495
+    second: Human Baby Sprite Sheet 3 - Guides_34
+  - first:
+      213: 3554015427760525571
+    second: Human Baby Sprite Sheet 3 - Guides_35
+  - first:
+      213: 8506327522858012974
+    second: Human Baby Sprite Sheet 3 - Guides_36
+  - first:
+      213: -2576992484614039390
+    second: Human Baby Sprite Sheet 3 - Guides_37
+  - first:
+      213: 718497082496675400
+    second: Human Baby Sprite Sheet 3 - Guides_38
+  - first:
+      213: -832803305461823452
+    second: Human Baby Sprite Sheet 3 - Guides_39
+  - first:
+      213: 2996719808979531325
+    second: Human Baby Sprite Sheet 3 - Guides_40
+  - first:
+      213: 6951024668084857186
+    second: Human Baby Sprite Sheet 3 - Guides_41
+  - first:
+      213: 7141296581722013722
+    second: Human Baby Sprite Sheet 3 - Guides_42
+  - first:
+      213: -3189321646839306499
+    second: Human Baby Sprite Sheet 3 - Guides_43
+  - first:
+      213: 571978711748373392
+    second: Human Baby Sprite Sheet 3 - Guides_44
+  - first:
+      213: 2555530947122772629
+    second: Human Baby Sprite Sheet 3 - Guides_45
+  - first:
+      213: -2648265291828265328
+    second: Human Baby Sprite Sheet 3 - Guides_46
+  - first:
+      213: -3582146226287324069
+    second: Human Baby Sprite Sheet 3 - Guides_47
+  - first:
+      213: -6840998343830595157
+    second: Human Baby Sprite Sheet 3 - Guides_48
+  - first:
+      213: -1206476285609887034
+    second: Human Baby Sprite Sheet 3 - Guides_49
+  - first:
+      213: -5803167935539285090
+    second: Human Baby Sprite Sheet 3 - Guides_50
+  - first:
+      213: 4727537842195114352
+    second: Human Baby Sprite Sheet 3 - Guides_51
+  - first:
+      213: -8719477916378016260
+    second: Human Baby Sprite Sheet 3 - Guides_52
+  - first:
+      213: -8151849754925589063
+    second: Human Baby Sprite Sheet 3 - Guides_53
+  - first:
+      213: -2072784567408987579
+    second: Human Baby Sprite Sheet 3 - Guides_54
+  - first:
+      213: -4167298526822502782
+    second: Human Baby Sprite Sheet 3 - Guides_55
+  - first:
+      213: -5596620995806542078
+    second: Human Baby Sprite Sheet 3 - Guides_56
+  - first:
+      213: 5787822667343887402
+    second: Human Baby Sprite Sheet 3 - Guides_57
+  - first:
+      213: -7111250491736085622
+    second: Human Baby Sprite Sheet 3 - Guides_58
+  - first:
+      213: -483609814346453756
+    second: Human Baby Sprite Sheet 3 - Guides_59
+  - first:
+      213: -4776732293280974757
+    second: Human Baby Sprite Sheet 3 - Guides_60
+  - first:
+      213: 5929566205551350290
+    second: Human Baby Sprite Sheet 3 - Guides_61
+  - first:
+      213: 8169428975227824574
+    second: Human Baby Sprite Sheet 3 - Guides_62
+  - first:
+      213: 4541056903842572570
+    second: Human Baby Sprite Sheet 3 - Guides_63
+  - first:
+      213: -1157596303105201332
+    second: Human Baby Sprite Sheet 3 - Guides_64
+  - first:
+      213: -7802546460219624528
+    second: Human Baby Sprite Sheet 3 - Guides_65
+  - first:
+      213: 4657904693856160154
+    second: Human Baby Sprite Sheet 3 - Guides_66
+  - first:
+      213: -8165515184426613101
+    second: Human Baby Sprite Sheet 3 - Guides_67
+  - first:
+      213: 60909917717924986
+    second: Human Baby Sprite Sheet 3 - Guides_68
+  - first:
+      213: -1685240934239458624
+    second: Human Baby Sprite Sheet 3 - Guides_69
+  - first:
+      213: 4283785934922736527
+    second: Human Baby Sprite Sheet 3 - Guides_70
+  - first:
+      213: 5489278932226442468
+    second: Human Baby Sprite Sheet 3 - Guides_71
+  - first:
+      213: -4369887009765510491
+    second: Human Baby Sprite Sheet 3 - Guides_72
+  - first:
+      213: -9154657007676389894
+    second: Human Baby Sprite Sheet 3 - Guides_73
+  - first:
+      213: -4148746939566116186
+    second: Human Baby Sprite Sheet 3 - Guides_74
+  - first:
+      213: -3139045020878988477
+    second: Human Baby Sprite Sheet 3 - Guides_75
+  - first:
+      213: 5399717403934997322
+    second: Human Baby Sprite Sheet 3 - Guides_76
+  - first:
+      213: -7723293889164057190
+    second: Human Baby Sprite Sheet 3 - Guides_77
+  - first:
+      213: -8804816915850705784
+    second: Human Baby Sprite Sheet 3 - Guides_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffed5d1caf61b0570800000000000000
+      internalID: 8433859993431039743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608bd876d06ca37f0800000000000000
+      internalID: -631975036817917946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb2919bbf47bfc90800000000000000
+      internalID: -7134980560147371034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b134b1e433c2e7820800000000000000
+      internalID: 2917818207448023835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68f4fbe840b3260800000000000000
+      internalID: 7078256250484393719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f1e6d759944cd0800000000000000
+      internalID: -2574764484402743191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd487e3d715cf80800000000000000
+      internalID: -8087031356984074793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa87dd2796c3ee560800000000000000
+      internalID: 7344874465884207279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ffd841197b06a50800000000000000
+      internalID: 6512406894920728368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aec16dfde9f0d990800000000000000
+      internalID: -7363110590197150046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27aee14edddecb0800000000000000
+      internalID: -4832962853257710870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0bf1a7d3c811fe0800000000000000
+      internalID: -1220039828370902865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 167
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10996d68c5468abd0800000000000000
+      internalID: -2618732834753963775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d522c0bb4f9bd00800000000000000
+      internalID: 989090677384174921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f43759e45b81f60800000000000000
+      internalID: 8005347686770495285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7defd20a7949c0800000000000000
+      internalID: -3942485846020751725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975060f4075361a0800000000000000
+      internalID: -6817509732184467564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfba0821210bbafc0800000000000000
+      internalID: -3482496295174624261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5220107c0af903110800000000000000
+      internalID: 1238665410409202213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767be9b3725d4f600800000000000000
+      internalID: 501259823025665895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 127
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b7ecbfc6a0c8e0800000000000000
+      internalID: -1675155650224082579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60557a3f57aea9190800000000000000
+      internalID: -7954787999476656890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b40de11b82dc1140800000000000000
+      internalID: 4691856406556247224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626ba19d576bf7d30800000000000000
+      internalID: 4431461175625692710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 127
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad590be5f7e43bf0800000000000000
+      internalID: -345396228004422232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a103543a1162750800000000000000
+      internalID: 6279726123352857229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 135
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26f2af1d9d19aa0800000000000000
+      internalID: -6155899719769955680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04aec1ee4a93df00800000000000000
+      internalID: 1140424794241410063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647f057e47800e6a0800000000000000
+      internalID: -6422123770440255674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3354155e7f1734920800000000000000
+      internalID: 2973345488512828723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44d472276ed7b870800000000000000
+      internalID: 8698665739830481998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a7f90dace25970800000000000000
+      internalID: 8742310054620277241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896066979aabdcf00800000000000000
+      internalID: 1138771517843572376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc72785c39a7670800000000000000
+      internalID: 8537298520219569047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96011f0f014cb6dc0800000000000000
+      internalID: -3644603896385433495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019ce99336625130800000000000000
+      internalID: 3554015427760525571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21941740db8c0670800000000000000
+      internalID: 8506327522858012974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 95
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a89abd1dfeac3cd0800000000000000
+      internalID: -2576992484614039390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6e5e2a4d98f900800000000000000
+      internalID: 718497082496675400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 105
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4284d2a5ec94174f0800000000000000
+      internalID: -832803305461823452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36f999f9cc769920800000000000000
+      internalID: 2996719808979531325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269ec268b10077060800000000000000
+      internalID: 6951024668084857186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a108045a76bfa1360800000000000000
+      internalID: 7141296581722013722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6eda52cd04db3d0800000000000000
+      internalID: -3189321646839306499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be8dc9b9310f700800000000000000
+      internalID: 571978711748373392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a35cb4bd1177320800000000000000
+      internalID: 2555530947122772629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e74998fb87f3bd0800000000000000
+      internalID: -2648265291828265328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5453a87cf8a94ec0800000000000000
+      internalID: -3582146226287324069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba911fe5044ef01a0800000000000000
+      internalID: -6840998343830595157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca3a4ed53cb14fe0800000000000000
+      internalID: -1206476285609887034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e937e365281077fa0800000000000000
+      internalID: -5803167935539285090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079a142be969b9140800000000000000
+      internalID: 4727537842195114352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 72
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5dc6768013ef680800000000000000
+      internalID: -8719477916378016260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd1e4796dfcede80800000000000000
+      internalID: -8151849754925589063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542fca30b6dfb33e0800000000000000
+      internalID: -2072784567408987579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e6cb3b118ca26c0800000000000000
+      internalID: -4167298526822502782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20745724bdec452b0800000000000000
+      internalID: -5596620995806542078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7cfdfc0a725050800000000000000
+      internalID: 5787822667343887402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8baf33da53cf4d90800000000000000
+      internalID: -7111250491736085622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dacf5af6fd949f0800000000000000
+      internalID: -483609814346453756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58b9d79943a5bdb0800000000000000
+      internalID: -4776732293280974757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2129c0a3c0d0a4250800000000000000
+      internalID: 5929566205551350290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9ec369e54af5170800000000000000
+      internalID: 8169428975227824574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192f5ac133150f30800000000000000
+      internalID: 4541056903842572570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4beb18ab446fefe0800000000000000
+      internalID: -1157596303105201332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_65
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b0278559c7b390800000000000000
+      internalID: -7802546460219624528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99cbe2f3a334a040800000000000000
+      internalID: 4657904693856160154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3968138d3334eae80800000000000000
+      internalID: -8165515184426613101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_68
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c00e85f3568d000800000000000000
+      internalID: 60909917717924986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa5b19c42dc98e0800000000000000
+      internalID: -1685240934239458624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8362e08c90137b30800000000000000
+      internalID: 4283785934922736527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4846cfa16dd2c40800000000000000
+      internalID: 5489278932226442468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a23552daea0b53c0800000000000000
+      internalID: -4369887009765510491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af588e874ff14f080800000000000000
+      internalID: -9154657007676389894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23c24b3a0bc66c0800000000000000
+      internalID: -4148746939566116186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b9c845f2fdf64d0800000000000000
+      internalID: -3139045020878988477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_76
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b3a05be56afea40800000000000000
+      internalID: 5399717403934997322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_77
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956e68a02951d490800000000000000
+      internalID: -7723293889164057190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - Guides_78
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844e5a3aa10fc580800000000000000
+      internalID: -8804816915850705784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Human Baby Sprite Sheet 3 - Guides_0: 8433859993431039743
+      Human Baby Sprite Sheet 3 - Guides_1: -631975036817917946
+      Human Baby Sprite Sheet 3 - Guides_10: -4832962853257710870
+      Human Baby Sprite Sheet 3 - Guides_11: -1220039828370902865
+      Human Baby Sprite Sheet 3 - Guides_12: -2618732834753963775
+      Human Baby Sprite Sheet 3 - Guides_13: 989090677384174921
+      Human Baby Sprite Sheet 3 - Guides_14: 8005347686770495285
+      Human Baby Sprite Sheet 3 - Guides_15: -3942485846020751725
+      Human Baby Sprite Sheet 3 - Guides_16: -6817509732184467564
+      Human Baby Sprite Sheet 3 - Guides_17: -3482496295174624261
+      Human Baby Sprite Sheet 3 - Guides_18: 1238665410409202213
+      Human Baby Sprite Sheet 3 - Guides_19: 501259823025665895
+      Human Baby Sprite Sheet 3 - Guides_2: -7134980560147371034
+      Human Baby Sprite Sheet 3 - Guides_20: -1675155650224082579
+      Human Baby Sprite Sheet 3 - Guides_21: -7954787999476656890
+      Human Baby Sprite Sheet 3 - Guides_22: 4691856406556247224
+      Human Baby Sprite Sheet 3 - Guides_23: 4431461175625692710
+      Human Baby Sprite Sheet 3 - Guides_24: -345396228004422232
+      Human Baby Sprite Sheet 3 - Guides_25: 6279726123352857229
+      Human Baby Sprite Sheet 3 - Guides_26: -6155899719769955680
+      Human Baby Sprite Sheet 3 - Guides_27: 1140424794241410063
+      Human Baby Sprite Sheet 3 - Guides_28: -6422123770440255674
+      Human Baby Sprite Sheet 3 - Guides_29: 2973345488512828723
+      Human Baby Sprite Sheet 3 - Guides_3: 2917818207448023835
+      Human Baby Sprite Sheet 3 - Guides_30: 8698665739830481998
+      Human Baby Sprite Sheet 3 - Guides_31: 8742310054620277241
+      Human Baby Sprite Sheet 3 - Guides_32: 1138771517843572376
+      Human Baby Sprite Sheet 3 - Guides_33: 8537298520219569047
+      Human Baby Sprite Sheet 3 - Guides_34: -3644603896385433495
+      Human Baby Sprite Sheet 3 - Guides_35: 3554015427760525571
+      Human Baby Sprite Sheet 3 - Guides_36: 8506327522858012974
+      Human Baby Sprite Sheet 3 - Guides_37: -2576992484614039390
+      Human Baby Sprite Sheet 3 - Guides_38: 718497082496675400
+      Human Baby Sprite Sheet 3 - Guides_39: -832803305461823452
+      Human Baby Sprite Sheet 3 - Guides_4: 7078256250484393719
+      Human Baby Sprite Sheet 3 - Guides_40: 2996719808979531325
+      Human Baby Sprite Sheet 3 - Guides_41: 6951024668084857186
+      Human Baby Sprite Sheet 3 - Guides_42: 7141296581722013722
+      Human Baby Sprite Sheet 3 - Guides_43: -3189321646839306499
+      Human Baby Sprite Sheet 3 - Guides_44: 571978711748373392
+      Human Baby Sprite Sheet 3 - Guides_45: 2555530947122772629
+      Human Baby Sprite Sheet 3 - Guides_46: -2648265291828265328
+      Human Baby Sprite Sheet 3 - Guides_47: -3582146226287324069
+      Human Baby Sprite Sheet 3 - Guides_48: -6840998343830595157
+      Human Baby Sprite Sheet 3 - Guides_49: -1206476285609887034
+      Human Baby Sprite Sheet 3 - Guides_5: -2574764484402743191
+      Human Baby Sprite Sheet 3 - Guides_50: -5803167935539285090
+      Human Baby Sprite Sheet 3 - Guides_51: 4727537842195114352
+      Human Baby Sprite Sheet 3 - Guides_52: -8719477916378016260
+      Human Baby Sprite Sheet 3 - Guides_53: -8151849754925589063
+      Human Baby Sprite Sheet 3 - Guides_54: -2072784567408987579
+      Human Baby Sprite Sheet 3 - Guides_55: -4167298526822502782
+      Human Baby Sprite Sheet 3 - Guides_56: -5596620995806542078
+      Human Baby Sprite Sheet 3 - Guides_57: 5787822667343887402
+      Human Baby Sprite Sheet 3 - Guides_58: -7111250491736085622
+      Human Baby Sprite Sheet 3 - Guides_59: -483609814346453756
+      Human Baby Sprite Sheet 3 - Guides_6: -8087031356984074793
+      Human Baby Sprite Sheet 3 - Guides_60: -4776732293280974757
+      Human Baby Sprite Sheet 3 - Guides_61: 5929566205551350290
+      Human Baby Sprite Sheet 3 - Guides_62: 8169428975227824574
+      Human Baby Sprite Sheet 3 - Guides_63: 4541056903842572570
+      Human Baby Sprite Sheet 3 - Guides_64: -1157596303105201332
+      Human Baby Sprite Sheet 3 - Guides_65: -7802546460219624528
+      Human Baby Sprite Sheet 3 - Guides_66: 4657904693856160154
+      Human Baby Sprite Sheet 3 - Guides_67: -8165515184426613101
+      Human Baby Sprite Sheet 3 - Guides_68: 60909917717924986
+      Human Baby Sprite Sheet 3 - Guides_69: -1685240934239458624
+      Human Baby Sprite Sheet 3 - Guides_7: 7344874465884207279
+      Human Baby Sprite Sheet 3 - Guides_70: 4283785934922736527
+      Human Baby Sprite Sheet 3 - Guides_71: 5489278932226442468
+      Human Baby Sprite Sheet 3 - Guides_72: -4369887009765510491
+      Human Baby Sprite Sheet 3 - Guides_73: -9154657007676389894
+      Human Baby Sprite Sheet 3 - Guides_74: -4148746939566116186
+      Human Baby Sprite Sheet 3 - Guides_75: -3139045020878988477
+      Human Baby Sprite Sheet 3 - Guides_76: 5399717403934997322
+      Human Baby Sprite Sheet 3 - Guides_77: -7723293889164057190
+      Human Baby Sprite Sheet 3 - Guides_78: -8804816915850705784
+      Human Baby Sprite Sheet 3 - Guides_8: 6512406894920728368
+      Human Baby Sprite Sheet 3 - Guides_9: -7363110590197150046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

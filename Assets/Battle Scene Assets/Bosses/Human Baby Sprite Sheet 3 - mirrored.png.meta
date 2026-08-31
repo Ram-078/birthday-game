@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: f9dac93bca35f4e4e9300dec73c5aba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1390019608066923206
+    second: Human Baby Sprite Sheet 3 - mirrored_0
+  - first:
+      213: -7673627060672020408
+    second: Human Baby Sprite Sheet 3 - mirrored_1
+  - first:
+      213: 6045137381756876547
+    second: Human Baby Sprite Sheet 3 - mirrored_2
+  - first:
+      213: -4482131258295293880
+    second: Human Baby Sprite Sheet 3 - mirrored_3
+  - first:
+      213: -3715707078012550326
+    second: Human Baby Sprite Sheet 3 - mirrored_4
+  - first:
+      213: 3733217698192166283
+    second: Human Baby Sprite Sheet 3 - mirrored_5
+  - first:
+      213: 2673492379507144639
+    second: Human Baby Sprite Sheet 3 - mirrored_6
+  - first:
+      213: 6137617402872039634
+    second: Human Baby Sprite Sheet 3 - mirrored_7
+  - first:
+      213: -8052742695943704332
+    second: Human Baby Sprite Sheet 3 - mirrored_8
+  - first:
+      213: -8249352017656796032
+    second: Human Baby Sprite Sheet 3 - mirrored_9
+  - first:
+      213: 8187435288532502021
+    second: Human Baby Sprite Sheet 3 - mirrored_10
+  - first:
+      213: -3215485848450295984
+    second: Human Baby Sprite Sheet 3 - mirrored_11
+  - first:
+      213: 3282802332916112781
+    second: Human Baby Sprite Sheet 3 - mirrored_12
+  - first:
+      213: -4392152791070044990
+    second: Human Baby Sprite Sheet 3 - mirrored_13
+  - first:
+      213: -1428387029820119816
+    second: Human Baby Sprite Sheet 3 - mirrored_14
+  - first:
+      213: -2279504732074417048
+    second: Human Baby Sprite Sheet 3 - mirrored_15
+  - first:
+      213: 4913682832015340962
+    second: Human Baby Sprite Sheet 3 - mirrored_16
+  - first:
+      213: -9009089204335621849
+    second: Human Baby Sprite Sheet 3 - mirrored_17
+  - first:
+      213: -366340585486044079
+    second: Human Baby Sprite Sheet 3 - mirrored_18
+  - first:
+      213: -1325774296366900843
+    second: Human Baby Sprite Sheet 3 - mirrored_19
+  - first:
+      213: 3308718923586923786
+    second: Human Baby Sprite Sheet 3 - mirrored_20
+  - first:
+      213: -8228869318398986780
+    second: Human Baby Sprite Sheet 3 - mirrored_21
+  - first:
+      213: 1193165529298922645
+    second: Human Baby Sprite Sheet 3 - mirrored_22
+  - first:
+      213: 6530478368241668992
+    second: Human Baby Sprite Sheet 3 - mirrored_23
+  - first:
+      213: 4177591513813040989
+    second: Human Baby Sprite Sheet 3 - mirrored_24
+  - first:
+      213: 3196333886825615636
+    second: Human Baby Sprite Sheet 3 - mirrored_25
+  - first:
+      213: 8839019533022213735
+    second: Human Baby Sprite Sheet 3 - mirrored_26
+  - first:
+      213: 3033978607102087164
+    second: Human Baby Sprite Sheet 3 - mirrored_27
+  - first:
+      213: 6549266926527582595
+    second: Human Baby Sprite Sheet 3 - mirrored_28
+  - first:
+      213: 3947781810095710629
+    second: Human Baby Sprite Sheet 3 - mirrored_29
+  - first:
+      213: -4831689727625021198
+    second: Human Baby Sprite Sheet 3 - mirrored_30
+  - first:
+      213: -5328928801090019836
+    second: Human Baby Sprite Sheet 3 - mirrored_31
+  - first:
+      213: 7436078805158041241
+    second: Human Baby Sprite Sheet 3 - mirrored_32
+  - first:
+      213: 9133231230462698595
+    second: Human Baby Sprite Sheet 3 - mirrored_33
+  - first:
+      213: 1287911063913837785
+    second: Human Baby Sprite Sheet 3 - mirrored_34
+  - first:
+      213: 3507697949557717900
+    second: Human Baby Sprite Sheet 3 - mirrored_35
+  - first:
+      213: 3039642574895563958
+    second: Human Baby Sprite Sheet 3 - mirrored_36
+  - first:
+      213: -213054962595327620
+    second: Human Baby Sprite Sheet 3 - mirrored_37
+  - first:
+      213: -587346584129057726
+    second: Human Baby Sprite Sheet 3 - mirrored_38
+  - first:
+      213: 3353570772904656734
+    second: Human Baby Sprite Sheet 3 - mirrored_39
+  - first:
+      213: 5595708317061059729
+    second: Human Baby Sprite Sheet 3 - mirrored_40
+  - first:
+      213: -9154040556907657175
+    second: Human Baby Sprite Sheet 3 - mirrored_41
+  - first:
+      213: 2402760600010690422
+    second: Human Baby Sprite Sheet 3 - mirrored_42
+  - first:
+      213: 6030246908231698994
+    second: Human Baby Sprite Sheet 3 - mirrored_43
+  - first:
+      213: 3807819763702086048
+    second: Human Baby Sprite Sheet 3 - mirrored_44
+  - first:
+      213: -8475003015865523873
+    second: Human Baby Sprite Sheet 3 - mirrored_45
+  - first:
+      213: 5533254810813886723
+    second: Human Baby Sprite Sheet 3 - mirrored_46
+  - first:
+      213: -3811055715664174094
+    second: Human Baby Sprite Sheet 3 - mirrored_47
+  - first:
+      213: -3065838207277391019
+    second: Human Baby Sprite Sheet 3 - mirrored_48
+  - first:
+      213: 4106771325550956146
+    second: Human Baby Sprite Sheet 3 - mirrored_49
+  - first:
+      213: -7141975798553120993
+    second: Human Baby Sprite Sheet 3 - mirrored_50
+  - first:
+      213: -5704115382465839121
+    second: Human Baby Sprite Sheet 3 - mirrored_51
+  - first:
+      213: 500585617910817601
+    second: Human Baby Sprite Sheet 3 - mirrored_52
+  - first:
+      213: 951757555343700814
+    second: Human Baby Sprite Sheet 3 - mirrored_53
+  - first:
+      213: -2175489855418814469
+    second: Human Baby Sprite Sheet 3 - mirrored_54
+  - first:
+      213: -5030688864373143742
+    second: Human Baby Sprite Sheet 3 - mirrored_55
+  - first:
+      213: 7865253309618531941
+    second: Human Baby Sprite Sheet 3 - mirrored_56
+  - first:
+      213: -8562319768027312252
+    second: Human Baby Sprite Sheet 3 - mirrored_57
+  - first:
+      213: -6585497056374143041
+    second: Human Baby Sprite Sheet 3 - mirrored_58
+  - first:
+      213: -7863763544616237446
+    second: Human Baby Sprite Sheet 3 - mirrored_59
+  - first:
+      213: 7285748601874099398
+    second: Human Baby Sprite Sheet 3 - mirrored_60
+  - first:
+      213: -5651964548123589775
+    second: Human Baby Sprite Sheet 3 - mirrored_61
+  - first:
+      213: -737606708198663927
+    second: Human Baby Sprite Sheet 3 - mirrored_62
+  - first:
+      213: 4890317177034035310
+    second: Human Baby Sprite Sheet 3 - mirrored_63
+  - first:
+      213: -8542605604510505192
+    second: Human Baby Sprite Sheet 3 - mirrored_64
+  - first:
+      213: 6652094033023691791
+    second: Human Baby Sprite Sheet 3 - mirrored_65
+  - first:
+      213: -2892387648691276024
+    second: Human Baby Sprite Sheet 3 - mirrored_66
+  - first:
+      213: -7204677406789965103
+    second: Human Baby Sprite Sheet 3 - mirrored_67
+  - first:
+      213: 7728510882091131221
+    second: Human Baby Sprite Sheet 3 - mirrored_68
+  - first:
+      213: 5955631017671161794
+    second: Human Baby Sprite Sheet 3 - mirrored_69
+  - first:
+      213: 7128547449368119032
+    second: Human Baby Sprite Sheet 3 - mirrored_70
+  - first:
+      213: 6378604810366188444
+    second: Human Baby Sprite Sheet 3 - mirrored_71
+  - first:
+      213: 2073423225197906787
+    second: Human Baby Sprite Sheet 3 - mirrored_72
+  - first:
+      213: -6450252587428987330
+    second: Human Baby Sprite Sheet 3 - mirrored_73
+  - first:
+      213: -2777919043767139603
+    second: Human Baby Sprite Sheet 3 - mirrored_74
+  - first:
+      213: -7561574119229173929
+    second: Human Baby Sprite Sheet 3 - mirrored_75
+  - first:
+      213: -6673652806336051142
+    second: Human Baby Sprite Sheet 3 - mirrored_76
+  - first:
+      213: 5117446324355392347
+    second: Human Baby Sprite Sheet 3 - mirrored_77
+  - first:
+      213: 6757918983891813115
+    second: Human Baby Sprite Sheet 3 - mirrored_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca18a908775a4310800000000000000
+      internalID: 1390019608066923206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c1dd48dcc18590800000000000000
+      internalID: -7673627060672020408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307bd029b64a4e350800000000000000
+      internalID: 6045137381756876547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84862a03e554cc1c0800000000000000
+      internalID: -4482131258295293880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4348a569182f6cc0800000000000000
+      internalID: -3715707078012550326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d02f197bd0fc330800000000000000
+      internalID: 3733217698192166283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7bc3687272a1520800000000000000
+      internalID: 2673492379507144639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8817962823d2550800000000000000
+      internalID: 6137617402872039634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f077acee29ee3090800000000000000
+      internalID: -8052742695943704332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2a600c0a648d80800000000000000
+      internalID: -8249352017656796032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5064a7a140d9f9170800000000000000
+      internalID: 8187435288532502021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05713de38ac4063d0800000000000000
+      internalID: -3215485848450295984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dd949245bde8d20800000000000000
+      internalID: 3282802332916112781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8701ae40fb03c0800000000000000
+      internalID: -4392152791070044990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 142
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ebc570995d2ce0800000000000000
+      internalID: -1428387029820119816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864e1e406829d50e0800000000000000
+      internalID: -2279504732074417048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b53d7088e03440800000000000000
+      internalID: 4913682832015340962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c4c1d91949f280800000000000000
+      internalID: -9009089204335621849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154bb4fad2f7aeaf0800000000000000
+      internalID: -366340585486044079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59915bc3d47e99de0800000000000000
+      internalID: -1325774296366900843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de206a45eeaed20800000000000000
+      internalID: 3308718923586923786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 127
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5b7bd04fe2dcd80800000000000000
+      internalID: -8228869318398986780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 127
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c6a1c2ab9fe8010800000000000000
+      internalID: 1193165529298922645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083da68d97be0aa50800000000000000
+      internalID: 6530478368241668992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f33851959c9f930800000000000000
+      internalID: 4177591513813040989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 127
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411d8c33cb8ab5c20800000000000000
+      internalID: 3196333886825615636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76637842f618aaa70800000000000000
+      internalID: 8839019533022213735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff447ce77bda1a20800000000000000
+      internalID: 3033978607102087164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38114e6f19ba3ea50800000000000000
+      internalID: 6549266926527582595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e089d3a659c630800000000000000
+      internalID: 3947781810095710629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8b108cac362fcb0800000000000000
+      internalID: -4831689727625021198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 95
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e5ea14d77db06b0800000000000000
+      internalID: -5328928801090019836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99691477642423760800000000000000
+      internalID: 7436078805158041241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ab370a61cfbe70800000000000000
+      internalID: 9133231230462698595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d431eaf9449fd110800000000000000
+      internalID: 1287911063913837785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_35
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf0c653b8dda030800000000000000
+      internalID: 3507697949557717900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4cdc031dafe2a20800000000000000
+      internalID: 3039642574895563958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 95
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711fdce3a31b0df0800000000000000
+      internalID: -213054962595327620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 95
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cc2f4c46359d7f0800000000000000
+      internalID: -587346584129057726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f3d1899d64a8e20800000000000000
+      internalID: 3353570772904656734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949f192113f7ad40800000000000000
+      internalID: 5595708317061059729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928000a1d9056f080800000000000000
+      internalID: -9154040556907657175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f01fb0902585120800000000000000
+      internalID: 2402760600010690422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a4c090d9dbfa350800000000000000
+      internalID: 6030246908231698994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9bc2086e718d430800000000000000
+      internalID: 3807819763702086048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51a8f8d8adb26a80800000000000000
+      internalID: -8475003015865523873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301784a1fe11acc40800000000000000
+      internalID: 5533254810813886723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36d98b4096c1bc0800000000000000
+      internalID: -3811055715664174094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553296cd464f375d0800000000000000
+      internalID: -3065838207277391019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e893113ce2ef830800000000000000
+      internalID: 4106771325550956146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fedccd9da92ec90800000000000000
+      internalID: -7141975798553120993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef38460849e6d0b0800000000000000
+      internalID: -5704115382465839121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436e3f97ff62f600800000000000000
+      internalID: 500585617910817601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e433e863472553d00800000000000000
+      internalID: 951757555343700814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffab43b08b1fc1e0800000000000000
+      internalID: -2175489855418814469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247868fa1276f2ab0800000000000000
+      internalID: -5030688864373143742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2744963ef62d60800000000000000
+      internalID: 7865253309618531941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4d6d39878c2980800000000000000
+      internalID: -8562319768027312252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb74075915d9b94a0800000000000000
+      internalID: -6585497056374143041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a768b7d58bc4ed290800000000000000
+      internalID: -7863763544616237446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_60
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc218970cd2c1560800000000000000
+      internalID: 7285748601874099398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_61
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730ef950303091b0800000000000000
+      internalID: -5651964548123589775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 31
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9099fdd5b9e73c5f0800000000000000
+      internalID: -737606708198663927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60da100095edd340800000000000000
+      internalID: 4890317177034035310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817e3ee9671927980800000000000000
+      internalID: -8542605604510505192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_65
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c6fda574cf05c50800000000000000
+      internalID: 6652094033023691791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807770f02cc2cd7d0800000000000000
+      internalID: -2892387648691276024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da600f0218d30c90800000000000000
+      internalID: -7204677406789965103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_68
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55168c923bf214b60800000000000000
+      internalID: 7728510882091131221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c776953bd6a6a250800000000000000
+      internalID: 5955631017671161794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68a14f220bde260800000000000000
+      internalID: 7128547449368119032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b797c974b558850800000000000000
+      internalID: 6378604810366188444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b47f6107746cc10800000000000000
+      internalID: 2073423225197906787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e30c652791c76a0800000000000000
+      internalID: -6450252587428987330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de287750959d279d0800000000000000
+      internalID: -2777919043767139603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fce88c664ef0790800000000000000
+      internalID: -7561574119229173929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a380d04912c6263a0800000000000000
+      internalID: -6673652806336051142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_77
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53e4509152d40740800000000000000
+      internalID: 5117446324355392347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human Baby Sprite Sheet 3 - mirrored_78
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf28db7c283f8cd50800000000000000
+      internalID: 6757918983891813115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Human Baby Sprite Sheet 3 - mirrored_0: 1390019608066923206
+      Human Baby Sprite Sheet 3 - mirrored_1: -7673627060672020408
+      Human Baby Sprite Sheet 3 - mirrored_10: 8187435288532502021
+      Human Baby Sprite Sheet 3 - mirrored_11: -3215485848450295984
+      Human Baby Sprite Sheet 3 - mirrored_12: 3282802332916112781
+      Human Baby Sprite Sheet 3 - mirrored_13: -4392152791070044990
+      Human Baby Sprite Sheet 3 - mirrored_14: -1428387029820119816
+      Human Baby Sprite Sheet 3 - mirrored_15: -2279504732074417048
+      Human Baby Sprite Sheet 3 - mirrored_16: 4913682832015340962
+      Human Baby Sprite Sheet 3 - mirrored_17: -9009089204335621849
+      Human Baby Sprite Sheet 3 - mirrored_18: -366340585486044079
+      Human Baby Sprite Sheet 3 - mirrored_19: -1325774296366900843
+      Human Baby Sprite Sheet 3 - mirrored_2: 6045137381756876547
+      Human Baby Sprite Sheet 3 - mirrored_20: 3308718923586923786
+      Human Baby Sprite Sheet 3 - mirrored_21: -8228869318398986780
+      Human Baby Sprite Sheet 3 - mirrored_22: 1193165529298922645
+      Human Baby Sprite Sheet 3 - mirrored_23: 6530478368241668992
+      Human Baby Sprite Sheet 3 - mirrored_24: 4177591513813040989
+      Human Baby Sprite Sheet 3 - mirrored_25: 3196333886825615636
+      Human Baby Sprite Sheet 3 - mirrored_26: 8839019533022213735
+      Human Baby Sprite Sheet 3 - mirrored_27: 3033978607102087164
+      Human Baby Sprite Sheet 3 - mirrored_28: 6549266926527582595
+      Human Baby Sprite Sheet 3 - mirrored_29: 3947781810095710629
+      Human Baby Sprite Sheet 3 - mirrored_3: -4482131258295293880
+      Human Baby Sprite Sheet 3 - mirrored_30: -4831689727625021198
+      Human Baby Sprite Sheet 3 - mirrored_31: -5328928801090019836
+      Human Baby Sprite Sheet 3 - mirrored_32: 7436078805158041241
+      Human Baby Sprite Sheet 3 - mirrored_33: 9133231230462698595
+      Human Baby Sprite Sheet 3 - mirrored_34: 1287911063913837785
+      Human Baby Sprite Sheet 3 - mirrored_35: 3507697949557717900
+      Human Baby Sprite Sheet 3 - mirrored_36: 3039642574895563958
+      Human Baby Sprite Sheet 3 - mirrored_37: -213054962595327620
+      Human Baby Sprite Sheet 3 - mirrored_38: -587346584129057726
+      Human Baby Sprite Sheet 3 - mirrored_39: 3353570772904656734
+      Human Baby Sprite Sheet 3 - mirrored_4: -3715707078012550326
+      Human Baby Sprite Sheet 3 - mirrored_40: 5595708317061059729
+      Human Baby Sprite Sheet 3 - mirrored_41: -9154040556907657175
+      Human Baby Sprite Sheet 3 - mirrored_42: 2402760600010690422
+      Human Baby Sprite Sheet 3 - mirrored_43: 6030246908231698994
+      Human Baby Sprite Sheet 3 - mirrored_44: 3807819763702086048
+      Human Baby Sprite Sheet 3 - mirrored_45: -8475003015865523873
+      Human Baby Sprite Sheet 3 - mirrored_46: 5533254810813886723
+      Human Baby Sprite Sheet 3 - mirrored_47: -3811055715664174094
+      Human Baby Sprite Sheet 3 - mirrored_48: -3065838207277391019
+      Human Baby Sprite Sheet 3 - mirrored_49: 4106771325550956146
+      Human Baby Sprite Sheet 3 - mirrored_5: 3733217698192166283
+      Human Baby Sprite Sheet 3 - mirrored_50: -7141975798553120993
+      Human Baby Sprite Sheet 3 - mirrored_51: -5704115382465839121
+      Human Baby Sprite Sheet 3 - mirrored_52: 500585617910817601
+      Human Baby Sprite Sheet 3 - mirrored_53: 951757555343700814
+      Human Baby Sprite Sheet 3 - mirrored_54: -2175489855418814469
+      Human Baby Sprite Sheet 3 - mirrored_55: -5030688864373143742
+      Human Baby Sprite Sheet 3 - mirrored_56: 7865253309618531941
+      Human Baby Sprite Sheet 3 - mirrored_57: -8562319768027312252
+      Human Baby Sprite Sheet 3 - mirrored_58: -6585497056374143041
+      Human Baby Sprite Sheet 3 - mirrored_59: -7863763544616237446
+      Human Baby Sprite Sheet 3 - mirrored_6: 2673492379507144639
+      Human Baby Sprite Sheet 3 - mirrored_60: 7285748601874099398
+      Human Baby Sprite Sheet 3 - mirrored_61: -5651964548123589775
+      Human Baby Sprite Sheet 3 - mirrored_62: -737606708198663927
+      Human Baby Sprite Sheet 3 - mirrored_63: 4890317177034035310
+      Human Baby Sprite Sheet 3 - mirrored_64: -8542605604510505192
+      Human Baby Sprite Sheet 3 - mirrored_65: 6652094033023691791
+      Human Baby Sprite Sheet 3 - mirrored_66: -2892387648691276024
+      Human Baby Sprite Sheet 3 - mirrored_67: -7204677406789965103
+      Human Baby Sprite Sheet 3 - mirrored_68: 7728510882091131221
+      Human Baby Sprite Sheet 3 - mirrored_69: 5955631017671161794
+      Human Baby Sprite Sheet 3 - mirrored_7: 6137617402872039634
+      Human Baby Sprite Sheet 3 - mirrored_70: 7128547449368119032
+      Human Baby Sprite Sheet 3 - mirrored_71: 6378604810366188444
+      Human Baby Sprite Sheet 3 - mirrored_72: 2073423225197906787
+      Human Baby Sprite Sheet 3 - mirrored_73: -6450252587428987330
+      Human Baby Sprite Sheet 3 - mirrored_74: -2777919043767139603
+      Human Baby Sprite Sheet 3 - mirrored_75: -7561574119229173929
+      Human Baby Sprite Sheet 3 - mirrored_76: -6673652806336051142
+      Human Baby Sprite Sheet 3 - mirrored_77: 5117446324355392347
+      Human Baby Sprite Sheet 3 - mirrored_78: 6757918983891813115
+      Human Baby Sprite Sheet 3 - mirrored_8: -8052742695943704332
+      Human Baby Sprite Sheet 3 - mirrored_9: -8249352017656796032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
