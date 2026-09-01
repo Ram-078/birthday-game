@@ -30,7 +30,7 @@ public class StartMenu : MonoBehaviour
         #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
         #elif UNITY_WEBGL
-        UnityEngine.Application.OpenURL("https://tequila-sunset0.itch.io/birthday-game");
+        UnityEngine.Application.OpenURL("javascript:window.location.reload();");
         #else
         Application.Quit();
         #endif

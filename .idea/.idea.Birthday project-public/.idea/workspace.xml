@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a8b81da-6ca7-4c48-88a6-384e7612bf79" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Birthday project-public/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Birthday project-public/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/StartMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StartMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Plugins/lib_burst_generated.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Plugins/lib_burst_generated.wasm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +108,8 @@
       <workItem from="1788263143149" duration="8000" />
       <workItem from="1788263300039" duration="4000" />
       <workItem from="1788269443020" duration="30000" />
+      <workItem from="1788284885683" duration="280000" />
+      <workItem from="1788286107479" duration="55000" />
     </task>
     <servers />
   </component>
