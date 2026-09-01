@@ -29,7 +29,10 @@ public class StartMenu : MonoBehaviour
     {
         #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
-        #endif
+        #elif UNITY_WEBGL
+        UnityEngine.Application.OpenURL("https://tequila-sunset0.itch.io/birthday-game");
+        #else
         Application.Quit();
+        #endif
     }
 }
