@@ -6,13 +6,8 @@ public class StartMenu : MonoBehaviour
 {
     public GameObject startMenu;
     public GameObject InstructionsMenu;
-
-    public void Start()
-    {
-        startMenu.SetActive(true);
-        InstructionsMenu.SetActive(false);
-    }
-
+    
+    
     public void OnStart()
     {
         SceneManager.LoadScene("Level 0");

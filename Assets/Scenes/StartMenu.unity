@@ -1013,7 +1013,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -717, y: -26}
+  m_AnchoredPosition: {x: -717, y: -63}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &781476867
@@ -1157,7 +1157,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -2014771838305702419, guid: ca1a7aded4e666943a8b16a617597f09, type: 3}
+  m_Sprite: {fileID: 1192843865154028290, guid: da1cb3cff8b882246b4670c030097975, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2092,7 +2092,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1523843324
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2625,11 +2625,11 @@ MonoBehaviour:
     to view items you collected.
 
 
-    Press E to interact
+    Press E to interact/ go to next line when
+    dialogue appears
 
 
-    An   icon appears
-    when an object/person is interactable
+    An   icon appears when an object/person is interactable
 
 
 
@@ -3366,8 +3366,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284053949
-  m_fontColor: {r: 0.7411765, g: 0.47450984, b: 0.34901962, a: 1}
+    rgba: 4284900966
+  m_fontColor: {r: 0.40000004, g: 0.40000004, b: 0.40000004, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
