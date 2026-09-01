@@ -1,9 +1,15 @@
 using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Runtime.InteropServices;
 
 public class StartMenu : MonoBehaviour
 {
+    #if UNITY_WEBGL && !UNITY_EDITOR
+    [DllImport("__Internal")]
+    private static extern void QuitGame();
+    #endif
+    
     public GameObject startMenu;
     public GameObject InstructionsMenu;
     
@@ -30,7 +36,7 @@ public class StartMenu : MonoBehaviour
         #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
         #elif UNITY_WEBGL
-        UnityEngine.Application.OpenURL("javascript:window.location.reload();");
+        QuitGame();
         #else
         Application.Quit();
         #endif
