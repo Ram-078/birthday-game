@@ -12,6 +12,9 @@ https://tequila-sunset0.itch.io/birthday-game
 ### Dialogue
 ![Dialogue](Screenshots/Dialogue.gif)
 
+### Menu
+![Menu](Screenshots/Menu.gif)
+
 ### Combat
 ![Combat](Screenshots/Combat.png)
 
